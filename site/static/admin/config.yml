@@ -2,3 +2,5 @@ backend:
   name: github
   repo: renatewr/victor-hugo # Path to your Github repository
   branch: master # Branch to update
+  media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
+  public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /img/uploads
