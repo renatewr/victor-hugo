@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: renatewr/victor-hugo # Path to your Github repository
+  branch: master # Branch to update
