@@ -1,0 +1,8 @@
+backend:
+  name: github
+  repo: renatewr/victor-hugo # Path to your Github repository
+  branch: master # Branch to update
+  media_folder: "site/static/img" # Folder where user uploaded files should go
+  public_folder: "img"
+
+  collections: # A list of collections the CMS should be able to edit
