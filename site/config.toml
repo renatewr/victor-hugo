@@ -1,11 +1,11 @@
 baseurl = "/"
-title = "Universal"
+title = "Cecilie Bibow"
 recentposts = "Siste artikler"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+#disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -15,7 +15,7 @@ paginate = 10
 [menu]
 
 [[menu.main]]
-    name = "Home"
+    name = "Hjem"
     url  = "/"
     weight = 1
 
@@ -25,7 +25,7 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     url  = "/contact/"
     weight = 3
 
@@ -36,10 +36,10 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    googleMapsApiKey = "AIzaSyAx6SfHdU5oSj4Co6Mjp5bPZGZZtrBuaw4"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "violet"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -56,24 +56,22 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Cecilie Bibow</p>"
+    copyright = "Copyright (c) 2017, Cecilie Bibow; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>Oslo Bli Ny - Cecilie Bibow</strong>
+        <br>Bygdøy Allè 11        
+        <br>0257 OSLO        
         <br>
-        <strong>Great Britain</strong>
+        <strong>Norway</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "59.915775"
+    longitude = "10.714695"    
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -101,13 +99,13 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Hva kunder sier"
+    subtitle = "Vi er stolte av alle de flotte tilbakemeldingene på nett, og kan informere våre kunder om at Oslo Bli Ny har inngått samarbeid med Englands største og mest anerkjente frisørkjede, Headmasters. Dette samarbeidet kan du nyte godt av i vårt Bli Ny - tilbud, der du vil motta internasjonale stylingtips og frisørbehandling med inspirasjon fra motehovedstaden London."
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
+    icon = "fa fa-heart-o"
+    title = "Vil du vite mer om smertelindring?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "#"
     link_text = "Check other homepages"
@@ -122,5 +120,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "Siste artikler"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
