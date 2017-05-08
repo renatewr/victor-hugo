@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Cecilie Bibow"
-recentposts = "Siste artikler"
+recentposts = "Siste historier"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -115,10 +115,10 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Våre samarbeidspartnere"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "Siste artikler"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Siste historier"
+    subtitle = ""
