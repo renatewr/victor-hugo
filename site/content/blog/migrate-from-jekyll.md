@@ -1,5 +1,5 @@
 ---
-banner: img/banners/banner-5.jpg
+image: /img/banners/banner-5.jpg
 categories:
   - lorem
 title: Migrate from Jekyll
