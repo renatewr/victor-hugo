@@ -9,7 +9,7 @@ public_folder: "img"
 collections: # A list of collections the CMS should be able to edit
   - name: "carousel"
     label: "Carousel"
-    folder: "site/data/carousel"
+    folder: "site/content/carousel"
     create: true # Allow users to create new documents in this collection
     fields: #The fields each carousel slide has
       - {label: "Title", name: "title", widget: "string"}
