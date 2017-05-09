@@ -1,5 +1,6 @@
 ---
 title: Dette er en test
-image: /img/massasje_2.jpg
+image: /img/cecilie_bibow_1.jpg
 ---
+
 
