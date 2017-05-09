@@ -6,6 +6,7 @@ import BlogPreview from "./cms-preview-templates/blog";
 import ProductsPreview from "./cms-preview-templates/products";
 import PackagesPreview from "./cms-preview-templates/packages";
 import TreatmentsPreview from "./cms-preview-templates/treatments";
+import CarouselPreview from "./cms-preview-templates/carousel";
 
 
 // Example of creating a custom color widget
@@ -26,4 +27,5 @@ CMS.registerPreviewTemplate("blog", BlogPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("packages", PackagesPreview);
 CMS.registerPreviewTemplate("treatments", TreatmentsPreview);
+CMS.registerPreviewTemplate("carousel", CarouselPreview);
 CMS.registerWidget("color", ColorControl);
