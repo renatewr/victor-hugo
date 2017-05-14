@@ -43,4 +43,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Type, name: type, widget: hidden, default: contact}
           - {label: Page, name: page, widget: hidden, default: "/contact.html"}
           - {label: Id, name: id, widget: hidden, default: "contact"}
-          - {label: Description, name: description, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
