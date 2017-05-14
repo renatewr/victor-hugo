@@ -10,3 +10,4 @@ Are you curious about something? Do you have some kind of problem with our produ
 ## Vi blir glade for kontakt
 
 Please feel free to contact us, our customer service center is working for you 24/7.
+
