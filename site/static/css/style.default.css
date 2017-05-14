@@ -2916,6 +2916,8 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   line-height: 20px;
   height: 62px;
+  display: flex;
+  align-items: center;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -2925,6 +2927,10 @@ fieldset[disabled] .btn-template-primary.active {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
     margin-left: -15px;
+  }
+  .navbar-brand{
+    display: flex;
+    align-items: center;
   }
 }
 .navbar-toggle {
