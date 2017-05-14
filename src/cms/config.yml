@@ -14,7 +14,6 @@ collections: # A list of collections the CMS should be able to edit
     fields: #The fields each carousel slide has
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Content", name: "content", widget: object, fields: [{label: Plans, name: plans, widget: list, fields: [{label: Items, name: items, widget: list}]}]}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
@@ -33,4 +32,15 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}      
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-    
+  - name: "pages"
+    label: "Pages"
+    files:      
+      - file: "site/content/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: contact}
+          - {label: Page, name: page, widget: hidden, default: "/contact.html"}
+          - {label: Id, name: id, widget: hidden, default: "contact"}
+          - {label: Description, name: description, widget: string}

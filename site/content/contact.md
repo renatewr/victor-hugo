@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 id = "contact"
+page = "contact"
 +++
 
 # We are here to help you
