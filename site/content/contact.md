@@ -1,6 +1,6 @@
 ---
 description: Kontakt oss gjerne
-title: Contact
+title: Kontakt
 id: contact
 ---
 # We are here to help you
