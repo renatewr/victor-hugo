@@ -1,7 +1,7 @@
 ---
 title: tada
 categories:
-  - massasje
+  - Oslo Bli Ny
 date: 2017-05-08T22:00:00.000Z
 description: awefawef
 tags:
@@ -19,6 +19,7 @@ pricing:
       price: '500'
 ---
 # Hei og hå trallallalllalllalalaaa
+
 
 
 
