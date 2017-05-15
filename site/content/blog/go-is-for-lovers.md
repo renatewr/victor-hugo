@@ -1,7 +1,9 @@
 ---
-categories:
-  - programming
 title: Go is for lovers
+categories:
+  - oslobliny
+tags:
+  - go
 date: '2015-09-17T13:47:08+02:00'
 image: /img/banners/banner-2.jpg
 pricing:
@@ -15,8 +17,6 @@ pricing:
         - tre
       plan: '90'
       price: '1000'
-tags:
-  - go
 ---
 Hugo uses the excellent [go](http://golang.org/) [html/template](http://golang.org/pkg/html/template/) library for
 its template engine. It is an extremely lightweight engine that provides a very
@@ -323,4 +323,5 @@ so, such as in this example:
         <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
       {{end}}</ul>
     </nav>
+
 
