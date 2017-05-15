@@ -11,7 +11,7 @@ pricing:
   description: Description
   heading: Headingen
   plans:
-    - description: Test
+    - description: Her er litt tekst
       items:
         - rygg
         - hode
@@ -19,6 +19,7 @@ pricing:
       price: '500'
 ---
 # Hei og hå trallallalllalllalalaaa
+
 
 
 
