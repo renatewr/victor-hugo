@@ -83,6 +83,7 @@ function sliderHomepage () {
     $('#slider').owlCarousel({
       autoPlay: 3000,
       items: 4,
+      lazyLoad:true,
       itemsDesktopSmall: [900, 3],
       itemsTablet: [600, 3],
       itemsMobile: [500, 2]

@@ -25,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Treatment" # Used in the UI, ie.: "New Post"
+    title: "Behandlinger"
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
