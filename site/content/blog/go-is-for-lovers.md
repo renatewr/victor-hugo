@@ -1,7 +1,7 @@
 ---
 title: Go is for lovers
 categories:
-  - oslobliny
+  - Oslo Bli Ny
 tags:
   - go
 date: '2015-09-17T13:47:08+02:00'
@@ -323,5 +323,6 @@ so, such as in this example:
         <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
       {{end}}</ul>
     </nav>
+
 
 
