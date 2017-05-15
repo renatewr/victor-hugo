@@ -1,14 +1,14 @@
 <div class="bg-off-white pv4 ph3">
 
 	<div class="mw7 center">
-		<p class="mw6">{{.description}}</p>
+		
 
-		<div class="flex-ns mhn2-ns mw7">
+		<div class="pricing">
 			{{ range .plans }}
 			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
 			{{ end }}
 		</div>
-
+		<p class="mw6">{{.description}}</p>
 	</div>
 
 </div>

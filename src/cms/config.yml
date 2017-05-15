@@ -34,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tags", name: "tags", widget: list}
       - {label: "Publish Date", name: "date", widget: "datetime"}      
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"

@@ -9,7 +9,7 @@ tags:
 image: /img/banners/banner-5.jpg
 pricing:
   plans:
-    - {}
+    - 
 ---
 # Her er en tekst
 

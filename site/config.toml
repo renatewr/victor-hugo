@@ -114,8 +114,8 @@ paginate = 10
     icon = "fa fa-heart-o"
     title = "Vil du vite mer om smertelindring?"
     subtitle = "Smertelindring for alle"
-    link_url = "#"
-    link_text = "Check other homepages"
+    link_url = "/categories/smerteeksperten/"
+    link_text = "Gå til smerteeksperten"
 
 [params.clients]
     enable = true

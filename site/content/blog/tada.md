@@ -12,9 +12,6 @@ pricing:
   heading: Headingen
   plans:
     - description: Test
-      items:
-        - rygg
-        - hode
       plan: '75'
       price: '500'
 ---

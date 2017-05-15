@@ -3,18 +3,13 @@ title: Go is for lovers
 categories:
   - Oslo Bli Ny
 tags:
-  - go
+  - pakker
 date: '2015-09-17T13:47:08+02:00'
 image: /img/banners/banner-2.jpg
-pricing:
-  description: Her er desc
+pricing:  
   heading: Her er en heading
   plans:
     - description: Her er desc
-      items:
-        - en
-        - to
-        - tre
       plan: '90'
       price: '1000'
 ---
