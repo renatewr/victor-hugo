@@ -13,7 +13,7 @@ class ColorControl extends React.Component {
   render() {
     return <input
         style={{height: "80px"}}
-        type="category"
+        type="color"
         value={this.props.value}
         onInput={(e) => this.props.onChange(e.target.value)}
     />;
@@ -27,4 +27,4 @@ CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("packages", PackagesPreview);
 CMS.registerPreviewTemplate("treatments", TreatmentsPreview);
 CMS.registerPreviewTemplate("carousel", CarouselPreview);
-CMS.registerWidget("category", ColorControl);
+CMS.registerWidget("color", ColorControl);
