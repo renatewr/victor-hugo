@@ -2,7 +2,7 @@
 date: 2017-05-16T19:59:48.898Z
 heading: Hva vi kan tilby på Oslo Bli Ny
 image: /img/strekk.jpg
-title: Cecilie Bibow
+title: Home
 description: Her er beskrivelsen
 testimonials:
   - author: 'Facebook, Eirin, Tromsø'
@@ -19,5 +19,6 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
