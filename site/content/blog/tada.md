@@ -11,15 +11,10 @@ pricing:
   description: Description
   heading: Headingen
   plans:
-    - description: Test
+    - description: Inkluderer maske
       plan: '75'
       price: '500'
 ---
-# Hei og hå trallallalllalllalalaaa
+Her er en *lenke*
 
-
-
-
-
-
-
+# Her får du personlig behandling
