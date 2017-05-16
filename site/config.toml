@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 10
+paginate = 20
 
 [menu]
 
@@ -117,7 +117,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-heart-o"
-    title = "Vil du vite mer om smertelindring?"
+    title = "Vil du vite mer om smerteeksperten?"
     subtitle = "Smertelindring for alle"
     link_url = "/categories/smerteeksperten/"
     link_text = "Gå til smerteeksperten"
