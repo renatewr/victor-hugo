@@ -1,14 +1,11 @@
 ---
-title: Oslo Bli Ny
+date: 2017-05-16T19:59:48.898Z
+heading: Hva vi kan tilby på Oslo Bli Ny
+image: /img/strekk.jpg
+title: Cecilie Bibow
 type: homepage
 page: /index.html
-image: /img/strekk.jpg
-heading: Hva vi kan tilby på Oslo Bli Ny
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Her er beskrivelsen
 testimonials:
   - author: 'Tripadvisor, Ida, Lørenskog'
     quote: >-
@@ -30,3 +27,4 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
