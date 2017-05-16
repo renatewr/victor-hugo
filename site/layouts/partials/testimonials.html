@@ -1,14 +1,13 @@
 {{ if isset .Site.Params "testimonials" }}
 {{ if .Site.Params.testimonials.enable }}
-{{ if gt (len .Site.Data.testimonials) 0 }}
+
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center">
-                    <h2>{{ .Site.Params.testimonials.title }}</h2>
+                    <h2>Hei</h2>
                 </div>
-
                 <p class="lead">
                   {{ .Site.Params.testimonials.subtitle | markdownify }}
                 </p>
@@ -43,6 +42,5 @@
     </div>
 </section>
 <!-- /.bar -->
-{{ end }}
 {{ end }}
 {{ end }}
