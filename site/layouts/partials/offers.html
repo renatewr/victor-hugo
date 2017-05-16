@@ -1,0 +1,22 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ range where .Data.Pages "Type" "offers" }}
+Hei
+<section class="bar background-white">
+    <div class="container">
+    
+		<div class="col-md-12">
+            <div class="row">		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">                          
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

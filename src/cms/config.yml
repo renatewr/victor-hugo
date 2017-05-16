@@ -14,6 +14,14 @@ collections: # A list of collections the CMS should be able to edit
     fields: #The fields each carousel slide has
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
+  - name: "offers"
+    label: "Offers"
+    folder: "site/content/offers"
+    create: true # Allow users to create new documents in this collection
+    fields: #The fields each carousel slide has
+      - {label: "Title", name: "name", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
@@ -48,6 +56,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Page, name: page, widget: hidden, default: "/contact.html"}
           - {label: Id, name: id, widget: hidden, default: "contact"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file : "site/content/testemonial.md"
+        label: "Tilbakemeldinger"
+        name: "testemonial"
+        fields:
+          - {label: Type, name: type, widget: hidden, default: testemonial}
+          - {label: Page, name: page, widget: hidden, default: "/testemonial.html"}
+          - {label: Title, name: title, widget: string}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
       - file: "site/content/about.md"
         label: "About"
         name: "about"

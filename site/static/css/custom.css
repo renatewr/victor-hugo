@@ -1,5 +1,15 @@
 /* your styles go here */
 
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.42857143;
+  color: #555555;
+  font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	line-height: 1.5;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -17,8 +27,7 @@
 
 .home-carousel h1 {
   position: absolute;
-  padding:10px;
-  background: rgba(0,0,0,0.4);
+  padding:10px;  
   left:10%;
   top:10%;  
   font-size:30px;

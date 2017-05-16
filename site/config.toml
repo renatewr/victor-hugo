@@ -15,8 +15,8 @@ paginate = 10
 [menu]
 
 [[menu.main]]
-    name = "Hjem"
-    url  = "/"
+    name = "Oslo Bli Ny"
+    url  = "/categories/oslo-bli-ny/"
     weight = 1
 
 [[menu.main]]
@@ -45,7 +45,7 @@ paginate = 10
     googleMapsApiKey = "AIzaSyAx6SfHdU5oSj4Co6Mjp5bPZGZZtrBuaw4"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "violet"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -94,6 +94,11 @@ paginate = 10
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
+
+[params.offers]
+    enable = true
+    # All features are defined in their own files. You can find example items    
+
 
 [params.features]
     enable = true

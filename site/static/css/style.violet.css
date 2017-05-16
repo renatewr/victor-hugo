@@ -1160,8 +1160,8 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 10px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
@@ -1194,6 +1194,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   font-size: 46px;
   letter-spacing: 0.08em;
+  background-color: rgba(152, 109, 189, 0.6);
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
@@ -3152,8 +3153,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
+  /*font-size: 14px;*/
+  /*line-height: 1.42857143;*/
   color: #555555;
 }
 a {
@@ -3171,7 +3172,7 @@ a:focus {
   outline-offset: -2px;
 }
 .img-rounded {
-  border-radius: 0;
+  border-radius: 1rem;
 }
 hr {
   margin-top: 20px;

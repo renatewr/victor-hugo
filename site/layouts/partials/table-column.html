@@ -1,13 +1,16 @@
 <div class="flex">
 
-	<!-- Title -->
+	<!-- Duration -->
+	{{ if .plan }}
 	<p class="primary left">{{.plan}} min</p>
+	{{ end }}
 
 	<!-- Price -->
+	{{ if .price }}
 	<p class="primary right">
 		<span class="f4">Kr </span>{{.price}},-
 	</p>
-
+	{{ end }}
 	<!-- Description -->
 	<p class="desc">{{.description}}</p>
 </div>

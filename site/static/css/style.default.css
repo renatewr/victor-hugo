@@ -1160,8 +1160,8 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 10px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
@@ -3156,12 +3156,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #cccccc;
 }
 /* scaffolding */
-body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #555555;
-}
+
 a {
   color: #38a7bb;
   text-decoration: none;
