@@ -8,6 +8,8 @@
                 <div class="heading text-center">
                     <h2>Hei</h2>
                 </div>
+                {{ range where .Data.Pages "Title" "Home" }}
+                    <p class="lead">{{ .Params.description }}</p>
                 <p class="lead">
                   {{ .Site.Params.testimonials.subtitle | markdownify }}
                 </p>
@@ -15,17 +17,17 @@
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
 
                 <ul class="owl-carousel testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
+                  {{ range .Params.testimonials }}                                      
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
-                                <p>{{ .text | markdownify }}</p>
+                                <p>{{ .quote | markdownify }}</p>
                             </div>
                             <div class="bottom">
                                 <div class="icon"><i class="fa fa-quote-left"></i>
                                 </div>
                                 <div class="name-picture">                                    
-                                    <h5>{{ .name }}</h5>
+                                    <h5>{{ .author }}</h5>
                                     <p>{{ .position }}</p>
                                 </div>
                             </div>
@@ -34,7 +36,7 @@
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
-
+                {{ end }}
                 <!-- *** TESTIMONIALS CAROUSEL END *** -->
             </div>
 
