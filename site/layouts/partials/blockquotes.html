@@ -1,0 +1,51 @@
+{{ if isset .Site.Params "testimonials" }}
+{{ if .Site.Params.testimonials.enable }}
+{{ if gt (len .Site.Data.testimonials) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.testimonials.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.testimonials.subtitle | markdownify }}
+                </p>
+
+                <!-- *** TESTIMONIALS CAROUSEL *** -->
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Content.blockquotes }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>{{ .description | markdownify }}</p>
+                            </div>
+                            {{ range .testemonial }}
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">                                    
+                                    <h5>{{ .author }}</h5>
+                                    <p>{{ .quote }}</p>
+                                </div>
+                            </div>
+                      			{{ end }}
+                            
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <!-- *** TESTIMONIALS CAROUSEL END *** -->
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

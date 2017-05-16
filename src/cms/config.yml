@@ -74,3 +74,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Id, name: id, widget: hidden, default: "about"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/_index.md"
+        label: "Homepage"
+        name: "homepage"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: _index}
+          - {label: Page, name: page, widget: hidden, default: "/index.html"}          
+          - {label: Description, name: description, widget: string}
+          - {label: Date, name: date, widget: date}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          
+          
+          
