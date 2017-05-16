@@ -46,7 +46,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
-    files:      
+    files:
       - file: "site/content/contact.md"
         label: "Contact"
         name: "contact"
