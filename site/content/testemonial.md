@@ -1,6 +1,10 @@
 ---
 description: Kontakt oss gjerne
-title: Kontakt
 id: contact
+title: Tilbakemeldinger
+testimonials:
+  - author: 'Renate W Ravnaas, Amedia'
+    quote: Jeg er kjemefornøyd
 ---
 # Kontakt oss!
+
