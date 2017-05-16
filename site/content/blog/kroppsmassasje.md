@@ -10,4 +10,4 @@ image: /img/massasje_1.jpg
 pricing:
   heading: Kropp og massasje
 ---
-Body
+Her er noe tekst
