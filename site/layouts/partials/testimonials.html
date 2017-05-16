@@ -4,18 +4,15 @@
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="heading text-center">
-                    <h2>Hei</h2>
-                </div>
+            <div class="col-md-12">                
                 {{ range where .Data.Pages "Title" "Home" }}
-                    <p class="lead">{{ .Params.description }}</p>
-                <p class="lead">
-                  {{ .Site.Params.testimonials.subtitle | markdownify }}
-                </p>
-
+                  <div class="heading text-center">
+                    <h2>{{ .Params.testemonialheading | markdownify }}</h2>
+                  </div>
+                    <p class="lead">
+                      {{ .Params.description | markdownify }}
+                    </p>
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
-
                 <ul class="owl-carousel testimonials same-height-row">
                   {{ range .Params.testimonials }}                                      
                     <li class="item">
