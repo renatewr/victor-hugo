@@ -19,7 +19,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/offer"
     create: true # Allow users to create new documents in this collection
     fields: #The fields each carousel slide has
-      - {label: "Title", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
       - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
