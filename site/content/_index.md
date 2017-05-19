@@ -9,7 +9,7 @@ description: >-
   mest anerkjente frisørkjede, Headmasters. Dette samarbeidet kan du nyte godt
   av i vårt Bli Ny - tilbud, der du vil motta internasjonale stylingtips og
   frisørbehandling med inspirasjon fra motehovedstaden London.
-testemonialheading: Tilbakemeldinger
+testemonialheading: Hva kundene sier
 testimonials:
   - author: 'Facebook, Eirin, Tromsø'
     position: 'CEO, TransTech'
@@ -25,6 +25,7 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
 
