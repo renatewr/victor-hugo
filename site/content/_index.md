@@ -2,7 +2,7 @@
 date: 2017-05-16T19:59:48.898Z
 heading: Hva vi kan tilby på Oslo Bli Ny
 image: /img/strekk.jpg
-title: Home
+title: Home test
 description: >-
   Vi er stolte av alle de flotte tilbakemeldingene på nett, og kan informere
   våre kunder om at Oslo Bli Ny har inngått samarbeid med Englands største og
@@ -25,6 +25,7 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
 
