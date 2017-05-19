@@ -11,20 +11,21 @@ description: >-
   frisørbehandling med inspirasjon fra motehovedstaden London.
 testemonialheading: Hva kundene sier
 testimonials:
-  - author: 'Facebook, Eirin, Tromsø'
-    position: 'CEO, TransTech'
+  - author: Eirin
+    position: Tromsø
     quote: >-
       Tusen hjertelig takk for helt vanvittig bra massasje i går. Dette kan du
       og anbefaler deg til alle jeg kjenner! Lykke til videre, kommer tilbake
       ved neste Oslo tur! Hils Per ;-)
-  - author: 'Anna Karin, Stavanager - Facebook'
-    position: 'CEO, TransTech'
+  - author: Anna Karin
+    position: Stavanger
     quote: >-
       Takk for helt fantastisk behandling av Cecilie idag, helt ubeskrivelig
       proff massasje av rygg nakke og armer på min frisørkropp. Dette var
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
 
