@@ -45,7 +45,7 @@ paginate = 20
     googleMapsApiKey = "AIzaSyAx6SfHdU5oSj4Co6Mjp5bPZGZZtrBuaw4"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "marsala"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual

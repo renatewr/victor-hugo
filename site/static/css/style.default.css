@@ -3172,7 +3172,7 @@ a:focus {
   outline-offset: -2px;
 }
 .img-rounded {
-  border-radius: 0;
+  border-radius: 6px;
 }
 hr {
   margin-top: 20px;
