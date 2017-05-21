@@ -132,5 +132,5 @@ paginate = 20
 
 [params.recent_posts]
     enable = true
-    title = "Siste historier"
+    title = "Vi tilbyr"
     subtitle = ""

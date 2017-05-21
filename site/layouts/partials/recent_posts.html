@@ -1,9 +1,9 @@
 {{ if isset .Site.Params "recent_posts" }}
 {{ if .Site.Params.recent_posts.enable }}
 <section class="bar background-white no-mb">
-    <div class="container">
+    
 
-        <div class="col-md-12">
+        <div class="recent_posts">
             <div class="heading text-center">
                 <h2>{{ .Site.Params.recent_posts.title }}</h2>
             </div>
@@ -13,19 +13,16 @@
             </p>
 
             <!-- *** BLOG HOMEPAGE *** -->
-
-            <div class="row">
-
+                            
                 {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
-                {{ range first 4 $posts.Pages }}
-                <div class="col-md-3 col-sm-6">
+                {{ range first 4 $posts.Pages }}                
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "image" }}
-                                <img src="{{ .Params.image }}" class="img-responsive" alt="" >
+                                <img src="{{ .Params.image }}" class="img-cover" alt="" >
                                 {{ else }}
-                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-cover" alt="">
                                 {{ end }}
                             </div>
                             <div class="bg"></div>
@@ -38,12 +35,6 @@
 
                         <div class="content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                            <p class="author-category">
-                            {{ with .Params.author }}
-                            By <a href="#">{{ . }}</a>
-                            {{ end }}
-                            on {{ .Date.Format .Site.Params.date_format }}
-                            </p>
                             <p class="intro">{{ .Summary }}</p>
                             <p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-template-main">{{ "Les mer" }}</a>
@@ -52,17 +43,12 @@
                     </div>
                     <!-- /.box-image-text -->
 
-                </div>
+                
                 {{ end }}
-
-            </div>
-            <!-- /.row -->
-
+            
             <!-- *** BLOG HOMEPAGE END *** -->
 
-        </div>
-    </div>
-    <!-- /.container -->
+        </div>  
 </section>
 <!-- /.bar -->
 {{ end }}
