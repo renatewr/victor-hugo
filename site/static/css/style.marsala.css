@@ -864,12 +864,15 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
+.panel{
+  background:#f5f5f5;
+}
 .panel.sidebar-menu h3 {
   padding: 5px 0;
   margin: 0;
 }
 .panel.sidebar-menu {
-  background: #fff;
+  /*background: #fff;*/
   margin: 0 0 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -3486,7 +3489,7 @@ address {
 }
 .panel {
   margin-bottom: 20px;
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
   border: 1px solid transparent;
   border-radius: 0;
   -webkit-box-shadow: 0 0 0;
@@ -3535,7 +3538,7 @@ address {
 }
 .panel-primary > .panel-heading .badge {
   color: rgba(215, 195, 136, 1);
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: rgba(215, 195, 136, 1);
