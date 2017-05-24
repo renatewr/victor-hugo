@@ -1,7 +1,7 @@
 ---
 title: Kroppsmassasje
 categories:
-  - Smerteeksperten
+  - smerteeksperten
 tags:
   - kropp
   - massasje
