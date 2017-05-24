@@ -15,8 +15,9 @@
 
         {{ partial "breadcrumbs.html" . }}
 
-        <div id="content">
-            {{ if isset .Params "id" }}
+        <div id="content" class="renate">
+          
+            {{ if isset .Params "id" }}             
 
               {{ partial .Params.id . }}
 
@@ -28,7 +29,8 @@
 
                     <div class="col-md-12">
 
-                        <div>
+                        <div> 
+                          Renates kontent                         
                           {{ .Content }}
                         </div>
 

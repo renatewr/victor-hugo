@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 20
+paginate = 100
 
 [menu]
 

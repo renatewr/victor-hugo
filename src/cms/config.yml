@@ -47,18 +47,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
-    files:
-      - file: "site/content/smerteeksperten.md"
-        label: "Smerteeksperten"
-        name: "smerteeksperten"
-        fields: 
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Type, name: type, widget: hidden, default: smerteeksperten}
-          - {label: Page, name: page, widget: hidden, default: "/smerteeksperten.html"}
-          - {label: Id, name: id, widget: hidden, default: "smerteeksperten"}
-          - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
+    files:      
       - file: "site/content/contact.md"
         label: "Contact"
         name: "contact"
