@@ -51,6 +51,11 @@ body {
   border-radius:3px;
   color: #fff;  
   font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+.home-carousel h1 span{
+  text-transform:none;
 }
 
 .home-carousel .owl-carousel .owl-wrapper-outer{

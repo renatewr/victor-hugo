@@ -69,7 +69,7 @@ paginate = 100
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Oslo Bli Ny - Cecilie Bibow</strong>
+    address = """<p><strong>Cecilie Bibow</strong>
         <br>Bygdøy Allè 11        
         <br>0257 OSLO        
         <br>
@@ -111,7 +111,7 @@ paginate = 100
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Hva kunder sier"
+    title = "Hva kunder mener"
     subtitle = "Vi er stolte av alle de flotte tilbakemeldingene på nett, og kan informere våre kunder om at Oslo Bli Ny har inngått samarbeid med Englands største og mest anerkjente frisørkjede, Headmasters. Dette samarbeidet kan du nyte godt av i vårt Bli Ny - tilbud, der du vil motta internasjonale stylingtips og frisørbehandling med inspirasjon fra motehovedstaden London."
 
 [params.see_more]
@@ -123,7 +123,7 @@ paginate = 100
     link_text = "Gå til smerteeksperten"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
