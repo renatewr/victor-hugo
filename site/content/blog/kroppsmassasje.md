@@ -1,7 +1,7 @@
 ---
 title: Kroppsmassasje
 categories:
-  - Massasje
+  - Smerteeksperten
 tags:
   - kropp
   - massasje
@@ -11,3 +11,4 @@ pricing:
   heading: Kropp og massasje
 ---
 Her er noe tekst
+
