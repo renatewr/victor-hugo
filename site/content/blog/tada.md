@@ -11,11 +11,10 @@ image: /img/blinypakker.jpg
 pricing:
   description: Description
   heading: Bli ny på en dag
-  plans:
-    - description: Inkluderer maske og makeup
-      plan: '120'
-      price: '1000'
+  plans: []
 ---
 # Her får du personlig behandling
 
 Dette inngår i Bli Ny - dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker, brille- og smykkeveiledning, og garderobeplanlegging.
+
+Pris på forespørsel!
