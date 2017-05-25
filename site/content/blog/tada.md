@@ -1,5 +1,6 @@
 ---
-title: tada
+title: Kroppsmassasje
+ingress: Personlig tilpasset
 categories:
   - Oslo Bli Ny
 tags:
@@ -17,3 +18,4 @@ pricing:
 # Her får du personlig behandling
 
 Vi tilbyr tilpasset massasje. Denne massasjen tar** 75 minutter** og gir deg en deilig følelse etterpå.
+
