@@ -1,7 +1,8 @@
 ---
 title: Offer 3
-name: Lorem ipsum
+name: Bedriftsmassasje
 icon: fa fa-heart
-description: Lorem ipsum lorem ipsum
+description: Vi skreddersyr massasjepakker etter bedriftens eller gjestens behov.
 ---
+
 
