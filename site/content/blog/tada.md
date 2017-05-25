@@ -1,8 +1,7 @@
 ---
 date: 2017-05-08T22:00:00.000Z
-ingress: Personlig tilpasset
+summary: Personlig tilpasset
 title: Kroppsmassasje
-ingresspu: Personlig tilpasset
 categories:
   - Oslo Bli Ny
 tags:
