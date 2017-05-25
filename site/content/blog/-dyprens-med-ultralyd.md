@@ -1,5 +1,6 @@
 ---
 title: ​Dyprens med ultralyd
+summary: Fantastisk hud
 categories:
   - Oslo Bli Ny
 tags:
@@ -14,4 +15,5 @@ pricing:
       price: '600'
 ---
 Her kan man skrive litt mer utyllende om behandlingen om man vil
+
 
