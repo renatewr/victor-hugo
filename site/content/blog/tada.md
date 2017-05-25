@@ -1,11 +1,12 @@
 ---
-title: Kroppsmassasje
+date: 2017-05-08T22:00:00.000Z
 ingress: Personlig tilpasset
+title: Kroppsmassasje
+ingresspu: Personlig tilpasset
 categories:
   - Oslo Bli Ny
 tags:
   - hodebunn
-date: 2017-05-08T22:00:00.000Z
 image: /img/massasje_1.jpg
 pricing:
   description: Description
@@ -18,4 +19,5 @@ pricing:
 # Her får du personlig behandling
 
 Vi tilbyr tilpasset massasje. Denne massasjen tar** 75 minutter** og gir deg en deilig følelse etterpå.
+
 
