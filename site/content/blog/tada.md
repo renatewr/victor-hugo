@@ -1,22 +1,21 @@
 ---
 date: 2017-05-08T22:00:00.000Z
 summary: Personlig tilpasset
-title: Kroppsmassasje
+title: Bli Ny - Kvinne
 categories:
   - Oslo Bli Ny
 tags:
-  - hodebunn
-image: /img/massasje_1.jpg
+  - makeup
+  - bliny
+image: /img/blinypakker.jpg
 pricing:
   description: Description
-  heading: Headingen
+  heading: Bli ny på en dag
   plans:
-    - description: Inkluderer maske
-      plan: '75'
-      price: '500'
+    - description: Inkluderer maske og makeup
+      plan: '120'
+      price: '1000'
 ---
 # Her får du personlig behandling
 
-Vi tilbyr tilpasset massasje. Denne massasjen tar** 75 minutter** og gir deg en deilig følelse etterpå.
-
-
+Dette inngår i Bli Ny - dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker, brille- og smykkeveiledning, og garderobeplanlegging.
