@@ -1,16 +1,21 @@
 ---
-title: Smertelindring
+title: 'Bedriftsmassasje og smertebehandling '
 categories:
-  - smerteeksperten
+  - Bedriftsmassasje og smertebehandling
 tags:
-  - smertelindring
+  - massasje stretcing
+  - kopping
+  - reflexologi
+  - lymfedrenasje
 date: 2017-05-24T14:39:28.850Z
 image: /img/massage.jpg
 pricing:
-  heading: Smertelindring
+  heading: Massasje og smertebehandling
   plans:
-    - description: Her er beskrivelse av behandlingen
-      plan: '60'
-      price: '500'
+    - description: >-
+        Vi tilbyr de aller fleste massasjeformer. Vi skreddersyr behandlinger
+        etter ditt ønske og behov.
+      plan: 30/60/90
+      price: 390/690/990
 ---
-Her er mer utfyllende beskrivelse
+Etter å
