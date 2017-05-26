@@ -70,6 +70,17 @@ body {
       background-position: 50%;  
 }
 
+#blog-listing-medium .post .image img{
+  width: 100%;
+  height: 100%;
+}
+#blog-post .image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 40vh;
+}
+
 .post .pricing ul, 
 .post .pricing ol{
   list-style: none;
