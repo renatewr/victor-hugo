@@ -62,7 +62,7 @@ paginate = 100
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Cecilie Bibow</p>"
+    about_us = "<p>Cecilie Bibow</p><a href=/categories/Smerteeksperten/>Smerteeksperten</a><br/><a href=/categories/oslo-bli-ny/>Oslo Bli Ny</a></br>"
     copyright = "Copyright (c) 2017, Cecilie Bibow; all rights reserved."
 
     # Format dates with Go's time formatting
