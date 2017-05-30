@@ -5,8 +5,4 @@ title: Om
 id: about
 image: /img/cecilie_bibow_1.jpg
 ---
-## Om Cecilie Bibow, Oslo Bli Ny og smertelindring
-
-
-
-
+## Om Cecilie Bibow, Oslo Bli Ny og smerteeksperten
