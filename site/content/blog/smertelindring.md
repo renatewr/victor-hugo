@@ -13,9 +13,21 @@ pricing:
   heading: Massasje og smertebehandling
   plans:
     - description: >-
-        Vi tilbyr de aller fleste massasjeformer. Vi skreddersyr behandlinger
-        etter ditt ønske og behov.
-      plan: 30/60/90
-      price: 390/690/990
+        Vi tilbyr klassisk massasje, aroma, kopping, lymfedrenasje og
+        stretching. Vi skreddersyr massasjepakker etter gjestenes og bedriftenes
+        ønsker og behov. Er du ansatt eller eier en bedrift? Vi tilbyr
+        grupperabatter når det er flere som bestiller. 
+      plan: ''
+      price: ''
+    - description: Massasje
+      plan: '30'
+      price: '390'
+    - description: 'Rygg, nakke, (armer)'
+      plan: '60'
+      price: '690'
+    - description: Full kroppsmassasje
+      plan: '90'
+      price: '890'
 ---
 Etter å
+
