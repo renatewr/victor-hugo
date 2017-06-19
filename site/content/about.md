@@ -11,9 +11,7 @@ image: /img/cecilie_bibow_1.jpg
 
 Unike maskiner med dokumentert effekt, grundig fagkunnskap og fokus på den enkeltes behov, har gjort Oslo Bli Ny til et navn som ofte trekkes frem når en sikker, profesjonell opplevelse er i fokus.
 
-Eier Cecilie Bibow har en allsidig portofølje av diplomer, alt fra vannaerobic og skreddersydde massasjepakker til fargeanalyse og biolifting kan oppleves i kjelleren hos norges nest største hotell, Clarion hotel Royal Christiania.
-
-![Cecilie Bibow](/img/MSF_4412z.jpg)
+Eier Cecilie Bibow har en allsidig portofølje av diplomer, alt fra vannaerobic og skreddersydde massasjepakker til fargeanalyse og biolifting.
 
 Gjør som Stortinget og fashion-serien Top Model, benytt deg av Oslo Bli Ny sin mangeårige kompetanse slik at DU blir ny på en måte som passer DEG.
 
