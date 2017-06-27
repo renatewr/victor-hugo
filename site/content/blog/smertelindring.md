@@ -1,7 +1,7 @@
 ---
 title: 'Bedriftsmassasje og smertebehandling '
 categories:
-  - Bedriftsmassasje og smertebehandling
+  - smerteeksperten
 tags:
   - massasje stretcing
   - kopping
@@ -30,4 +30,5 @@ pricing:
       price: '890'
 ---
 Etter å
+
 
