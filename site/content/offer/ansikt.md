@@ -1,5 +1,5 @@
 ---
-title: Ansikt
+title: Hudpleie
 name: Hudpleie
 icon: fa fa-medkit
 description: >-
@@ -7,5 +7,6 @@ description: >-
   effektive maskiner i behandlinger, samt skreddersyr hudpleie etter dine ønsker
   og behov.
 ---
+
 
 
