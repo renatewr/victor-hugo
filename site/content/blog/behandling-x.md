@@ -10,7 +10,7 @@ pricing:
   heading: Hudpleiebehandlinger
   plans:
     - description: >-
-        RF Collagenstimulering. Gir ungdommelig spenst, fordeler collagenet, gir
+        Collagenstimulering. Gir ungdommelig spenst, fordeler collagenet, gir
         fukt i dybden og forebygger rynker
       plan: '30'
       price: '600'
@@ -38,6 +38,7 @@ pricing:
       price: '4900'
 ---
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+
 
 
 
