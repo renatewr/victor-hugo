@@ -3,7 +3,7 @@ date: '2016-09-09T10:15:23-04:00'
 draft: false
 title: Om
 id: about
-image: /img/cecilie_bibow_1.jpg
+image: /img/cecilie.jpg
 ---
 ## Hvem er Cecilie Bibow
 
@@ -23,3 +23,4 @@ Hotellgjester med kroniske smerter kom tilbake til Cecilie på Oslo Bli Ny langv
 * Meget god omtale, spraytan og apparater til bruk ved slanking, TV2 og P4
 * Garderobesortering, The Voice TV
 * Stylist for brudemagasiner og brudeshow i Europa
+
