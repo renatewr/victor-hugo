@@ -25,7 +25,4 @@ pricing:
       plan: '60'
       price: '690'
 ---
-Beskrivelse av behandling
-
-
-
+For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
