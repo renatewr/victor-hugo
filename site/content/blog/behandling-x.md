@@ -24,17 +24,21 @@ pricing:
         alle hudlag skånsomt og effektivt.
       plan: '60'
       price: '690'
-    - description: 'Acne ryggbehandling. Peeling, suger opp hudormer. Rensende leire.'
-      plan: '60'
-      price: '600'
     - description: 'Hudsliping. Jevner ut huden for linjer, porer, arr og pigmenteringer.'
       plan: '10'
+      price: '600'
+    - description: 'Acne ryggbehandling. Peeling, suger opp hudormer. Rensende leire.'
+      plan: '60'
       price: '600'
     - description: Hudsliping kur. 5 behandlinger
       plan: 5 x 10
       price: '2500'
+    - description: Collagenstimulering kur
+      plan: 10 x 30
+      price: '4900'
 ---
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+
 
 
 
