@@ -1,10 +1,13 @@
 ---
 title: Offer 1
-name: Massasje
+name: Slanking
 icon: fa fa-lightbulb-o
-description: 'Vi tilbyr klassisk massasje, aroma, kopping, lymfedrenasje og stretching.'
+description: >-
+  Maskiner smelter fett, strammer opp slapp muskulatur og renser ut
+  vannansamlinger. Cecilie har fått strålende omtale i KK!
 weight: 1
 ---
+
 
 
 
