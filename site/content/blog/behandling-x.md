@@ -14,6 +14,9 @@ pricing:
         fukt i dybden og forebygger rynker
       plan: '30'
       price: '600'
+    - description: Collagenstimulering kur
+      plan: 10 x 30
+      price: '4900'
     - description: >-
         Biolifting. Stimulerer musker og hudceller, reduserer vannansamlinger og
         strammer opp huden.
@@ -33,11 +36,9 @@ pricing:
     - description: Hudsliping kur. 5 behandlinger
       plan: 5 x 10
       price: '2500'
-    - description: Collagenstimulering kur
-      plan: 10 x 30
-      price: '4900'
 ---
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+
 
 
 
