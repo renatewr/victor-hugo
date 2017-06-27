@@ -27,6 +27,10 @@ pricing:
     - description: 'Acne ryggbehandling. Peeling, suger opp hudormer. Rensende leire.'
       plan: '60'
       price: '600'
+    - description: 'Hudsliping. Jevner ut huden for linjer, porer, arr og pigmenteringer.'
+      plan: '10'
+      price: '600'
 ---
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+
 
