@@ -5,15 +5,11 @@ title: Om
 id: about
 image: /img/cecilie_bibow_1.jpg
 ---
-## Om Cecilie Bibow, Oslo Bli Ny og smerteeksperten
+## Hvem er Cecilie Bibow
 
-**Etter over 15 år i bransjen** er Oslo Bli Ny et begrep i hovedstaden med tanke på allsidig velvære.
+Cecilie har de beste erfaringer fra et langt liv i sentrum av norges velværeindustri. Kundene har vært alt fra kjendiseliten til politikere på Stortinget, oppmerksomheten har kommet i form av riksdekkende medier som NRK og P4. Norges største velværesenter på Karl Johan ble et monument for Oslo Bli Ny - det var dit man gikk når kun det beste var godt nok. Massasje, farge - og stiltips, slankemaskiner, hudpleie og make up. Diplomene på veggen er mange og troverdigheten var like stabil som jungeltelegrafen fra alle som gikk ut av døra. Hotellkjeden Clarion sitt flaggskip Royal Christiania i Oslo sentrum inngikk etter hvert en avtale der de sikret seg Oslo Bli som sitt eget velværetilbud til sine kunder. Så kom hun til et veiskille.
 
-Unike maskiner med dokumentert effekt, grundig fagkunnskap og fokus på den enkeltes behov, har gjort Oslo Bli Ny til et navn som ofte trekkes frem når en sikker, profesjonell opplevelse er i fokus.
-
-Eier Cecilie Bibow har en allsidig portofølje av diplomer, alt fra vannaerobic og skreddersydde massasjepakker til fargeanalyse og biolifting.
-
-Gjør som Stortinget og fashion-serien Top Model, benytt deg av Oslo Bli Ny sin mangeårige kompetanse slik at DU blir ny på en måte som passer DEG.
+Hotellgjester kom tilbake til Cecilie langveis fra kun for å få bli kvitt muskelsmerter. 
 
 **Utførte oppdrag:**
 
