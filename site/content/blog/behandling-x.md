@@ -14,7 +14,12 @@ pricing:
         fukt i dybden og forebygger rynker
       plan: '30'
       price: '600'
-    - {}
+    - description: >-
+        Biolifting. Stimulerer musker og hudceller, reduserer vannansamlinger og
+        strammer opp huden.
+      plan: '15'
+      price: '790'
 ---
 Beskrivelse av behandling
+
 
