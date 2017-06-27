@@ -1,5 +1,5 @@
 ---
-title: Behandling x
+title: Hudpleie
 categories:
   - oslo bli ny
 tags:
@@ -35,6 +35,7 @@ pricing:
       price: '2500'
 ---
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+
 
 
 
