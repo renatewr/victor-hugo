@@ -17,9 +17,15 @@ pricing:
     - description: >-
         Biolifting. Stimulerer musker og hudceller, reduserer vannansamlinger og
         strammer opp huden.
-      plan: '15'
+      plan: '20'
       price: '790'
+    - description: >-
+        Dyprens med ultralyd og velgjørende massasje. Suger opp hudormer fra
+        alle hudlag skånsomt og effektivt.
+      plan: '60'
+      price: '690'
 ---
 Beskrivelse av behandling
+
 
 
