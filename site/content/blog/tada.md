@@ -1,7 +1,7 @@
 ---
 date: 2017-05-08T22:00:00.000Z
 summary: Personlig tilpasset
-title: Bli Ny - Kvinne
+title: Bli Ny
 categories:
   - Oslo Bli Ny
 tags:
@@ -18,3 +18,4 @@ pricing:
 Dette inngår i Bli Ny - dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker, brille- og smykkeveiledning, og garderobeplanlegging.
 
 Pris på forespørsel!
+
