@@ -118,7 +118,7 @@ paginate = 100
     enable = true
     icon = "fa fa-heart-o"
     title = "Vil du vite mer om smerteeksperten?"
-    subtitle = "Smertelindring for alle"
+    subtitle = "Bedriftsmassasje og smertebehandling"
     link_url = "/categories/smerteeksperten/"
     link_text = "Gå til smerteeksperten"
 
