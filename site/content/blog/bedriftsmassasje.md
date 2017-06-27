@@ -1,18 +1,27 @@
 ---
-title: Bedriftsmassasje
+title: Slanking
 categories:
-  - smerteeksperten
+  - oslo bli ny
 tags:
-  - massasje
+  - slanking
 date: 2017-05-21T21:15:40.126Z
 image: /img/massage.jpg
 pricing:
   heading: Kroppsmassasje
   plans:
-    - description: Massasje for hele kroppen
-      plan: '90'
-      price: '900'
+    - description: Microstimulator
+      plan: '60'
+      price: '800'
+    - description: Microstimulator 20 behandlinger
+      plan: 20 x 60
+      price: '8000'
 ---
-awefawef
+Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. Cecilie har fått strålende omtale i KK! Både for damer og menn.
 
+# Microstimulator
 
+Radiofrekvens mot fett, oppstrammende program, lymfredrenasje, infrarød varme, setter igang tarmsystem og forbrenning. Også kalt six-pack maskin.
+
+# Mage/lår
+
+Radiofrekvens med celluitemassasje og lymfedrenasje. Vi skreddersyr rimelige slankeprogrammer for hele kroppen.
