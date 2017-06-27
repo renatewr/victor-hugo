@@ -24,7 +24,11 @@ testimonials:
       proff massasje av rygg nakke og armer på min frisørkropp. Dette var
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
+  - author: Renate
+    position: Oslo
+    quote: Fantastisk!
 ---
+
 
 
 
