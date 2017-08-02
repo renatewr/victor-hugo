@@ -1582,16 +1582,16 @@ fieldset[disabled] .btn-template-primary.active {
   text-align: center;
   /*margin: 15px 0;*/
   display: flex;
-  flex-wrap:wrap;  
+  flex-wrap:wrap;
 }
 .box-image-text .top {
   position: relative;
   /*margin-bottom: 10px;*/
-  flex:1 0 100%;    
+  flex:1 0 100%;
 }
 .box-image-text .content {
   flex: 1 0 100%;
-  padding: 75px 3% 3% 3%; 
+  padding: 75px 3% 3% 3%;
   background-color: #f5f5f5;
 }
 .box-image-text .content:nth-child(odd){
@@ -1608,7 +1608,7 @@ fieldset[disabled] .btn-template-primary.active {
   .box-image-text .top {
     position: relative;
     /*margin-bottom: 10px;*/
-    flex:1 0 50%;  
+    flex:1 0 50%;
   }
   .box-image-text .content {
     flex: 1 0 50%;
@@ -2201,6 +2201,7 @@ fieldset[disabled] .btn-template-primary.active {
 .box-image-text.blog .intro {
   text-align: center;
   margin-bottom: 10px;
+  line-height: 1.8em;
 }
 
 #blog-homepage .post {
@@ -3580,7 +3581,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
