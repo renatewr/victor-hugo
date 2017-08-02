@@ -33,8 +33,8 @@ body {
   min-height: 230px;
 }
 .cecilie{
-  font-family: 'Lobster', cursive; 
-  font-size:30px; 
+  font-family: 'Lobster', cursive;
+  font-size:30px;
   margin-top:10px;
   display: inline-block;
   color: rgba(174, 147, 0, 1);
@@ -42,14 +42,14 @@ body {
 
 .home-carousel h1 {
   position: absolute;
-  padding:10px;  
+  padding:10px;
   left:10%;
   top:10%;
   right:10%;
-  word-wrap: break-word; 
+  word-wrap: break-word;
   font-size:24px;
   border-radius:3px;
-  color: #fff;  
+  color: #fff;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
@@ -67,7 +67,7 @@ body {
       height: 100vh;
       background-repeat: no-repeat;
       background-size: cover;
-      background-position: 50%;  
+      background-position: 50%;
 }
 
 #blog-listing-medium .post .image img{
@@ -81,7 +81,7 @@ body {
   height: 40vh;
 }
 
-.post .pricing ul, 
+.post .pricing ul,
 .post .pricing ol{
   list-style: none;
   margin:0;
@@ -98,7 +98,7 @@ body {
 .post .pricing .flex{
   display: flex;
   flex-wrap:wrap;
-  
+
 }
 .post .pricing .desc{
   flex: 1 0 100%;
@@ -107,13 +107,13 @@ body {
   padding-right:5px;
 }
 .post .pricing .primary.right{
-  border-left: 1px solid #d7c388;  
+  border-left: 1px solid #d7c388;
   padding-left:5px;
 }
 
 .features{
-  display:flex; 
-  flex-wrap:wrap;  
+  display:flex;
+  flex-wrap:wrap;
 }
 
 .box-simple p{
@@ -130,21 +130,19 @@ body {
 }
 @media (min-width: 768px){
   .features .box-simple{
-    flex: 1 0 20%;
+    flex: 1 0 100%;
     padding: 75px 3% 3% 3%;
   }
 }
 
 .features .box-simple:nth-child(odd){
   background:rgba(215, 195, 136, 0.7);
-} 
+}
 
 .features .box-simple:nth-child(even){
   background-color:#f5f5f5;
-} 
+}
 .features .box-simple:nth-child(odd) .icon{
   color: #f5f5f5;
   border-color: #f5f5f5;
 }
-
-
