@@ -33,13 +33,13 @@ paginate = 100
     name = "Kontakt"
     url  = "/contact/"
     weight = 3
-    
+
 
 [params]
     viewMorePostLink = "/blog/"
     author = "Cecilie"
-    defaultKeywords = ["velvæare", "hudpleie", "smertelindring"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = ["velvaere", "bedriftsmassasje","muskelsmerter","hudpleie", "smertelindring", "massasje", "bedriftshelsetjeneste", "massasje på jobb"]
+    defaultDescription = "Cecilie Bibow tilbyr skreddersydd massasje og smertebehandling til ansatte i bedrifter."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAx6SfHdU5oSj4Co6Mjp5bPZGZZtrBuaw4"
@@ -69,15 +69,11 @@ paginate = 100
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Cecilie Bibow</strong>
-        <br>Bygdøy Allè 11        
-        <br>0257 OSLO        
-        <br>
-        <strong>Norway</strong>
+    address = """<p><strong>Cecilie Bibow</strong>        
       </p>
       """
     latitude = "59.915775"
-    longitude = "10.714695"    
+    longitude = "10.714695"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -97,7 +93,7 @@ paginate = 100
 
 [params.offers]
     enable = true
-    # All features are defined in their own files. You can find example items    
+    # All features are defined in their own files. You can find example items
 
 
 [params.features]
