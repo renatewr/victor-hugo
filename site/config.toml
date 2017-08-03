@@ -69,11 +69,9 @@ paginate = 100
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Cecilie Bibow</strong>        
-      </p>
-      """
-    latitude = "59.915775"
-    longitude = "10.714695"
+    # address = """<p><strong>Cecilie Bibow</strong></p>"""
+    # latitude = "59.915775"
+    # longitude = "10.714695"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
