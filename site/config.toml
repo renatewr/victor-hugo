@@ -15,17 +15,12 @@ paginate = 100
 [menu]
 
 [[menu.main]]
-    name = "Oslo Bli Ny"
-    url  = "/categories/oslo-bli-ny/"
-    weight = 1
-
-[[menu.main]]
-    name = "Smerteeksperten"
+    name = "For bedrifter"
     url  = "/categories/Smerteeksperten/"
-    weight = 2
+    weight = ''
 
 [[menu.main]]
-    name = "Om"
+    name = "Om Cecilie"
     url  = "/about/"
     weight = 4
 
