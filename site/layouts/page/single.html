@@ -13,11 +13,11 @@
 
         </header>
 
-        {{ partial "breadcrumbs.html" . }}
+        <!-- {{ partial "breadcrumbs.html" . }}-->
 
-        <div id="content" class="renate">
-          
-            {{ if isset .Params "id" }}             
+        <div id="content" class="page">          
+
+            {{ if isset .Params "id" }}
 
               {{ partial .Params.id . }}
 
@@ -29,8 +29,8 @@
 
                     <div class="col-md-12">
 
-                        <div> 
-                          Renates kontent                         
+                        <div>
+                          Renates kontent
                           {{ .Content }}
                         </div>
 
