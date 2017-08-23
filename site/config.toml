@@ -16,8 +16,8 @@ paginate = 100
 
 [[menu.main]]
     name = "For bedrifter"
-    url  = "/categories/Smerteeksperten/"
-    weight = ''
+    url  = "/bedrift/"
+    weight = 1
 
 [[menu.main]]
     name = "Om Cecilie"
