@@ -83,8 +83,7 @@ body {
 .page section.image{
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-repeat: no-repeat;  
   height: 40vh;
   min-height:200px;
 }
