@@ -2,7 +2,7 @@
 date: 2017-05-08T22:00:00.000Z
 status: '0'
 pricing:
-  heading: Bli ny på en dag
+  heading: ''
   plans: []
 summary: Personlig tilpasset
 title: Bli Ny
@@ -18,4 +18,5 @@ image: /img/blinypakker.jpg
 Dette inngår i Bli Ny - dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker, brille- og smykkeveiledning, og garderobeplanlegging.
 
 Pris på forespørsel!
+
 
