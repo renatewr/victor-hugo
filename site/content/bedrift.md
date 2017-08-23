@@ -3,7 +3,7 @@ date: '2016-09-09T10:15:23-04:00'
 draft: false
 title: Bedriftsmassasje
 id: bedrift
-image: /img/cecilie.jpg
+image: /img/massasje_2.jpg
 ---
 # Bedriftsmassasje overskrift H1
 
@@ -27,3 +27,4 @@ Noe tekst
 * Meget god omtale, spraytan og apparater til bruk ved slanking, TV2 og P4
 * Garderobesortering, The Voice TV
 * Stylist for brudemagasiner og brudeshow i Europa
+
