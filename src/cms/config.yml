@@ -40,6 +40,16 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/bedrift.md"
+        label: "Bedrift"
+        name: "bedrift"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: about}
+          - {label: Page, name: page, widget: hidden, default: "/about.html"}
+          - {label: Id, name: id, widget: hidden, default: "about"}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/contact.md"
         label: "Contact"
         name: "contact"
