@@ -13,10 +13,16 @@ tags:
   - bliny
 image: /img/blinypakker.jpg
 ---
-# Her får du personlig behandling
+# **Gi verden den beste utgaven av deg selv!**
 
-Dette inngår i Bli Ny - dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker, brille- og smykkeveiledning, og garderobeplanlegging.
+## Her får du personlig behandling
+
+Følgende inngår i din helt egen Bli Ny - dag:
+
+Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling, klesveiledning i butikker, brille - og smykkeveiledning, garderobeplanlegging og fotografering etter ønske.
+
+Vi tar utgangspunkt i dine naturlige farger og din egen personlige stil. 
+
+Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
-
-
