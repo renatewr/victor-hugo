@@ -5,6 +5,8 @@ title: Bedriftsmassasje
 id: about
 image: /img/cecilie.jpg
 ---
+![bedriftsmassasje](/img/5d5693_46473bc576f343f6bebab5365be7887e.jpg)
+
 # Bedriftsmassasje overskrift H1
 
 Her kan man skrive om bedriftsmassasje.
