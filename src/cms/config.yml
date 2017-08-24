@@ -24,16 +24,18 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Treatment" # Used in the UI, ie.: "New Post"
+    label: "Behandling" # Used in the UI, ie.: "New Post"
     title: "Behandlinger"
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Categories", name: "categories", widget: list}
+      - {label: "Tags", name: "tags", widget: list}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Status", name: "status", widget: "string", default: "0"}
-      - {label: Pricing, name: pricing, widget: object,required: false, fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
+      - {label: "Status", name: "status", widget: "string"}
+      - {label: Pricing, name: pricing, widget: object, fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
