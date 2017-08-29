@@ -65,8 +65,8 @@ paginate = 100
 
     logo = "img/logo.png"
     # address = """<p><strong>Cecilie Bibow</strong></p>"""
-     latitude = "59.911587"
-     longitude = "10.741250"
+     latitude = "59.9115833"
+     longitude = "10.7412500"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
