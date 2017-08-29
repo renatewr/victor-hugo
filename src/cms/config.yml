@@ -7,36 +7,6 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "carousel"
-    label: "Carousel"
-    folder: "site/content/carousel"
-    create: false # Allow users to create new documents in this collection
-    fields: #The fields each carousel slide has
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
-  - name: "offer"
-    label: "Offers"
-    folder: "site/content/offer"
-    create: false # Allow users to create new documents in this collection
-    fields: #The fields each carousel slide has
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Icon", name: "icon", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Behandling" # Used in the UI, ie.: "New Post"
-    title: "Behandlinger"
-    folder: "site/content/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Categories", name: "categories", widget: list}
-      - {label: "Tags", name: "tags", widget: list}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Status", name: "status", widget: "string"}
-      - {label: Pricing, name: pricing, widget: object, fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -78,3 +48,33 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Date, name: date, widget: date}
           - {label: Heading for testemonial, name: testemonialheading, widget: string}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}, {label: Position, name: position, widget: string}]}
+  - name: "carousel"
+    label: "Carousel"
+    folder: "site/content/carousel"
+    create: false # Allow users to create new documents in this collection
+    fields: #The fields each carousel slide has
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+  - name: "offer"
+    label: "Offers"
+    folder: "site/content/offer"
+    create: false # Allow users to create new documents in this collection
+    fields: #The fields each carousel slide has
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Treatment" # Used in the UI, ie.: "New Post"
+    title: "Behandlinger"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Categories", name: "categories", widget: list}
+      - {label: "Tags", name: "tags", widget: list}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Status", name: "status", widget: "string"}
+      - {label: Pricing, name: pricing, widget: object, fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
+      - {label: "Body", name: "body", widget: "markdown"}
