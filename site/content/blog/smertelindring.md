@@ -24,3 +24,4 @@ Vi er på bedriften i ca 6 timer. Inntil 10 behandlinger. Den enkelte kan selv v
 
 Pris kr 5.900,- eks mva.
 
+
