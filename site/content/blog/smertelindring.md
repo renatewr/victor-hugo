@@ -30,5 +30,8 @@ pricing:
       plan: '10'
       price: '200'
 ---
-Ansatte sliter ofte med muskelrelaterte plager og smerter. Ved å tilby forebyggebde behandling, kan bedriften bidra til å unngå at det blir høyt sykefravær. Vi kommer til din bedrift og har med benk og nødvendig utstyr. Et tverrfaglig team sørger for et helhetlig tilbud.
+I en del yrker kan belastningsskader, smerter i led og muskler lett oppstå. Ved å tilby forebyggede behandling, kan bedriften bidra til å redusere sykefravær, samt bedre arbeidsdagen for de ansatte. Velværemassasje med oljer er en effektiv behandling. Når skaden er oppstått kan det være nødvendig og gå dypere og litt hardere til verks. Vi kommer til din bedrift og har med benk og nødvendig utstyr. Vi trenger et rom som stilles til rådighet.
 
+Vi er på bedriften i ca 6 timer. Inntil 10 behandlinger. Den enkelte kan selv velge hvilken type behandling de ønsker. Smertebehandling - idrettsmassasje med olje, velværemassasje, streching. Behandling av nakke, skuldre og rygg. 
+
+Pris kr 5.900,- eks mva.
