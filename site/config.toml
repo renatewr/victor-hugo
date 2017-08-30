@@ -69,7 +69,7 @@ paginate = 100
      longitude = "10.7412500"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:filename/"
     post = "/post/:year/:month/:day/:filename/"
 
 # Enable and disable widgets for the right sidebar
