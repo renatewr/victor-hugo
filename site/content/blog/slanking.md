@@ -19,3 +19,4 @@ Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut 
 Cecilie har fått strålende omtale i KK! 
 
 Både for damer og menn
+
