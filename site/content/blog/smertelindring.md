@@ -1,7 +1,7 @@
 ---
-title: Velvære for menn og kvinner
+title: 'Bedriftsmassasje og smertebehandling '
 categories:
-  - Velvære
+  - smerteeksperten
 tags:
   - massasje stretcing
   - kopping
@@ -16,7 +16,8 @@ pricing:
     skreddersyr massasjepakker etter gjestenes og bedriftenes ønsker og behov.
     Er du ansatt eller eier en bedrift? Vi tilbyr gode grupperabatter når det er
     flere som bestiller. Priser starter fra:
-  plans: []
+  plans:
+    - {}
 ---
 I en del yrker kan belastningsskader, smerter i led og muskler lett oppstå. Ved å tilby forebyggede behandling, kan bedriften bidra til å redusere sykefravær, samt bedre arbeidsdagen for de ansatte. Velværemassasje med oljer er en effektiv behandling. Når skaden er oppstått kan det være nødvendig og gå dypere og litt hardere til verks. Vi kommer til din bedrift og har med benk og nødvendig utstyr. Vi trenger et rom som stilles til rådighet.
 
