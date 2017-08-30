@@ -1,9 +1,11 @@
 ---
 date: 2017-05-16T19:59:48.898Z
-heading: Hva vi kan tilby på Oslo Bli Ny
+top_heading: Hva vi kan tilby på Oslo Bli Ny
+top_sub_heading: Lorem ipsum
+top_link_text: Lorem ipsum
+top_link_url: /contact
 image: /img/strekk.jpg
 title: Home
-description: Vi er stolte av alle de flotte tilbakemeldingene!
 testemonialheading: Hva kundene sier
 testimonials:
   - author: Eirin
@@ -23,14 +25,3 @@ testimonials:
     position: Oslo
     quote: Fantastisk!
 ---
-
-
-
-
-
-
-
-
-
-
-

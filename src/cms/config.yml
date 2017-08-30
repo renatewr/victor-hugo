@@ -43,9 +43,14 @@ collections: # A list of collections the CMS should be able to edit
         label: "Forside"
         name: "homepage"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: Title, name: title, widget: hidden, default: home }
+          - {label: Id, name: id, widget: hidden, default: "home"}
+          - {label: Description, name: description, widget: hidden}
           - {label: Date, name: date, widget: date}
+          - {label: Top tittel, name: top_heading, widget: string}
+          - {label: Top subtitle, name: top_sub_heading, widget: string}
+          - {label: Top button text, name: top_link_text, widget: string}
+          - {label: Top button link adress, name: top_link_url, widget: string}
           - {label: Heading for testemonial, name: testemonialheading, widget: string}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}, {label: Position, name: position, widget: string}]}
   - name: "carousel"
