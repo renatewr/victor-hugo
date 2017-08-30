@@ -12,14 +12,10 @@ pricing:
     - description: 'Microstimulator med fettsmelting, oppstramingsprogram og lymfedrenasje.'
       plan: '60'
       price: '800'
-    - description: >-
-        Microstimualator med fettsmelting, oppstrammingsprogram og
-        lymfedrenasje.
+    - description: ''
       plan: 10 behandling a 60 minutter
       price: '6000'
-    - description: >-
-        Microstimulator med fettsmelting, oppstrammingsprogram og
-        lymfedrenasje. 
+    - description: ' '
       plan: 20 behandlinger a 60 minutter
       price: '9000'
 ---
@@ -32,3 +28,4 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
+
