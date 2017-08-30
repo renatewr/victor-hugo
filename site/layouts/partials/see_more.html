@@ -6,7 +6,7 @@
       {{ range where .Data.Pages "Title" "Home" }}
         <div class="row">
             <div class="col-md-12">
-                <div class="icon icon-lg"><i class="{{ .Site.Params.see_more.icon }}"></i>
+                <div class="icon icon-lg"><i class="fa {{ .Params.top_icon }}"></i>                  
                 </div>
                 <h3 class="text-uppercase">{{ .Params.top_heading | markdownify }}</h3>
                 <p class="lead">{{ .Params.top_sub_heading }}</p>

@@ -6,6 +6,7 @@ top_heading: Unn deg velvære i hverdagen
 top_sub_heading: Lorem ipsum
 top_link_text: Lorem ipsum
 top_link_url: /contact
+top_icon: fa-heart-o
 testemonialheading: Hva kundene sier
 testimonials:
   - author: Eirin
@@ -22,5 +23,3 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
-
-
