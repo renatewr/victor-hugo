@@ -38,6 +38,6 @@ pricing:
       plan: 60 min
       price: '690'
 ---
-Vi benytter oss av unike og effektive maskiner - vi skreddersyr din behandling for optimalt resultat.
+Vi benytter oss av unike og effektive maskiner - vi skreddersyr din behandling for optimalt resultat. Alle mennesker har ulik hudtype. Vi kombinerer hudmaskiner og effektive produkter tilpasset din hudtype og behov.
 
-For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
+For deg som ønsker en ungdommelig og frisk hud. 
