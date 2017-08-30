@@ -1,7 +1,5 @@
 ---
-title: >-
-  Hudpleie- vi benytter oss av unike og effektive maskiner - vi skeddersyr din
-  behandling for optimalt resultat
+title: Hudpleie
 categories:
   - oslo bli ny
 tags:
@@ -40,16 +38,6 @@ pricing:
       plan: 60 min
       price: '690'
 ---
+Vi benytter oss av unike og effektive maskiner - vi skreddersyr din behandling for optimalt resultat.
+
 For deg som ønsker en ungdommelig og frisk hud. Vi benytter avanserte og effektive maskiner i behandlinger, skreddersyr hudpleie etter dine ønsker og behov.
-
-
-
-
-
-
-
-
-
-
-
-
