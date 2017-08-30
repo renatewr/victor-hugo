@@ -9,7 +9,7 @@ image: /img/massasje_2.jpg
 
 Vi er på bedriften i ca 6 timer. Inntil 10 behandlinger. Den enkelte kan selv velge hvilken type behandling de ønsker. Smertebehandling - idrettsmassasje med olje, velværemassasje, streching. Behandling av nakke, skuldre og rygg.
 
-Pris kr 5.900,- eks mva.  Område: stor Oslo og omegn. 
+Pris kr 5.900,- eks mva.  Område: stor Oslo og omegn.
 
 Ved faste avtaler og langvarig oppdrag, ta kontakt for egne priser.
 
