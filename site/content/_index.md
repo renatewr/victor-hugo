@@ -2,7 +2,7 @@
 title: Home
 date: 2017-05-16T19:59:48.898Z
 image: /img/strekk.jpg
-top_heading: Hva vi kan tilby på Oslo Bli Ny
+top_heading: Unn deg velvære i hverdagen
 top_sub_heading: Lorem ipsum
 top_link_text: Lorem ipsum
 top_link_url: /contact
@@ -22,4 +22,5 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
