@@ -1,5 +1,5 @@
 ---
-title: Velvære for alle menn og kvinner
+title: Bedriftsmassaje- vis at du bryr deg
 categories:
   - smerteeksperten
 tags:
@@ -24,6 +24,7 @@ I en del yrker kan belastningsskader, smerter i led og muskler lett oppstå. Ved
 Vi er på bedriften i ca 6 timer. Inntil 10 behandlinger. Den enkelte kan selv velge hvilken type behandling de ønsker. Smertebehandling - idrettsmassasje med olje, velværemassasje, streching. Behandling av nakke, skuldre og rygg. 
 
 Pris kr 5.900,- eks mva.
+
 
 
 
