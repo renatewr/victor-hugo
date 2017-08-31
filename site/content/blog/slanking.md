@@ -19,7 +19,7 @@ pricing:
       plan: 20 behandlinger a 60 minutter
       price: '9000'
 ---
-# Slanking
+Slanking
 
 # Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. Nå kan du punktslanke problemområdene dine. I kombinasjon med riktig kosthold og aktivitet vil du selvfølgelig se et raskere og bedre resultat.
 
@@ -28,3 +28,4 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
+
