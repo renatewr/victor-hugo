@@ -26,3 +26,4 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
+
