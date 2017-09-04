@@ -113,3 +113,11 @@ paginate = 100
     enable = true
     title = "Vi tilbyr"
     subtitle = ""
+
+[params.see_more]
+    enable = true
+     icon = "fa fa-heart-o"
+     title = "Vil du vite mer om smerteeksperten?"
+     subtitle = "Bedriftsmassasje og smertebehandling"
+     link_url = "/categories/smerteeksperten/"
+     link_text = "Gå til smerteeksperten"
