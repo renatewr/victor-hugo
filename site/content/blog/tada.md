@@ -13,7 +13,7 @@ tags:
   - bliny
 image: /img/blinypakker.jpg
 ---
-# La Cecilie Bibow og hennes team få frem dine unike sider.
+## La Cecilie Bibow og hennes team få frem dine unike sider.
 
 Har du glemt deg selv i en stressende og hektisk hverdag! Litt lei av den gamle frisyren! Garderoben gått ut på dato! På tide og få frem den gamle gløden. Unn deg selv eller en du er glad i en Bli Ny dag.
 
