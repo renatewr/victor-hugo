@@ -5,7 +5,7 @@ categories:
 tags:
   - slanking
 date: 2017-08-24T06:44:16.057Z
-image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
+image: /img/Image-1.jpg
 status: '0'
 pricing:
   plans:
@@ -28,4 +28,5 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
+
 
