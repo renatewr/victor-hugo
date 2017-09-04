@@ -1,7 +1,7 @@
 ---
 title: Velvære for menn og damer i alle aldre
 categories:
-  - smerteeksperten
+  - oslobliny
 tags:
   - massasje stretcing
   - kopping
@@ -29,7 +29,7 @@ pricing:
       price: '490'
     - description: >-
         Smertebehandling - Idrettsmassasje. Her går vi litt hardere til verks.
-        Jobber med de ulike punktene som er stive og støle. 
+        Jobber med de ulike punktene som er stive og støle.
       plan: 60 min
       price: '790'
 ---

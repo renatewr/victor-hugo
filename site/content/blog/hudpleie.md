@@ -1,7 +1,7 @@
 ---
 title: Hudpleie
 categories:
-  - oslo bli ny
+  - oslobliny
 tags:
   - ansikt
 date: 2017-05-29T06:42:46.792Z

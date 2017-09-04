@@ -1,7 +1,7 @@
 ---
 title: Slanking
 categories:
-  - privat
+  - oslobliny
 tags:
   - slanking
 date: 2017-08-24T06:44:16.057Z
@@ -26,4 +26,3 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
-

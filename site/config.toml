@@ -55,7 +55,7 @@ paginate = 100
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "cecilie@oslobliny.no"
 
     about_us = "<p>Cecilie Bibow</p><a href=/categories/Smerteeksperten/>Smerteeksperten</a><br/><a href=/categories/oslo-bli-ny/>Oslo Bli Ny</a></br>"
     copyright = "Copyright (c) 2017, Cecilie Bibow; all rights reserved."
@@ -64,7 +64,7 @@ paginate = 100
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    # address = """<p><strong>Cecilie Bibow</strong></p>"""
+    address = """<p><strong>Cecilie Bibow</strong></p>"""
      latitude = "59.9115833"
      longitude = "10.7412500"
 
@@ -74,9 +74,9 @@ paginate = 100
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = false
-    tags = false
-    search = false
+    #categories = false
+    #tags = false
+    #search = false
 
 [params.carousel]
     enable = false
@@ -100,16 +100,6 @@ paginate = 100
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Hva kunder mener"
-    subtitle = "Vi er stolte av alle de flotte tilbakemeldingene på nett, og kan informere våre kunder om at Oslo Bli Ny har inngått samarbeid med Englands største og mest anerkjente frisørkjede, Headmasters. Dette samarbeidet kan du nyte godt av i vårt Bli Ny - tilbud, der du vil motta internasjonale stylingtips og frisørbehandling med inspirasjon fra motehovedstaden London."
-
-[params.see_more]
-    enable = true
-    icon = "fa fa-heart-o"
-    title = "Vil du vite mer om smerteeksperten?"
-    subtitle = "Bedriftsmassasje og smertebehandling"
-    link_url = "/categories/smerteeksperten/"
-    link_text = "Gå til smerteeksperten"
 
 [params.clients]
     enable = false

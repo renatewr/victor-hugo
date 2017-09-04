@@ -1,6 +1,6 @@
 ---
 categories:
-  - Oslo Bli Ny
+  - oslobliny
 date: 2017-05-08T22:00:00.000Z
 status: '0'
 pricing:
