@@ -8,7 +8,7 @@ top_sub_heading: >-
   Hverdagen er ofte stressende. Du fortjener et avbrekk hvor din velvære settes
   i fokus.
 top_link_text: Les mer
-top_link_url: /contact
+top_link_url: /blog/smertelindring/
 testemonialheading: Hva kundene sier
 testimonials:
   - author: Eirin
@@ -25,6 +25,7 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
 
