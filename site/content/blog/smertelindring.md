@@ -51,7 +51,10 @@ pricing:
     - plan: 30 min
       price: '490'
 ---
-Vi mennesker er flinke til og vedlikeholde hus og hjem. Vi tar service på våre biler og båter. Dessverre er vi ikke like flinke til og ta vare på oss selv. #more Kropp og sjel trenger også pleie i en ofte hektisk og krevende hverdag. Massasje, enten det er for ren velvære eller du har muskelskader og spenninger, er en god investering i egen helse. Vi tilbyr flere ulike former for behandling. Vi tilpasser oss ditt behov. Sammen finner vi ut hva som passer deg best med mål om at din kropp skal fungere bedre og at energilageret fylles opp.
+Vi mennesker er flinke til og vedlikeholde hus og hjem. Vi tar service på våre biler og båter. Dessverre er vi ikke like flinke til og ta vare på oss selv. Kropp og sjel trenger også pleie i en ofte hektisk og krevende hverdag. 
+
+Massasje, enten det er for ren velvære eller du har muskelskader og spenninger, er en god investering i egen helse. Vi tilbyr flere ulike former for behandling. Vi tilpasser oss ditt behov. Sammen finner vi ut hva som passer deg best med mål om at din kropp skal fungere bedre og at energilageret fylles opp.
 
 Vi bruker stretching og reflexologi i flere av våre massasjebehandlinger
+
 
