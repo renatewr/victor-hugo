@@ -15,17 +15,14 @@
         {{ end }}
 
 
-
-        <div class="col-md-4 col-sm-6">
-
-          <h4>{{ "Kontakt" }}</h4>
-
-            {{ .Site.Params.address | markdownify }}
-
-            <a href="/contact" class="btn btn-small btn-template-main">{{ "Nyhetsbrev" }}</a>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
+        <div class="col-md-6 col-sm-12">
+          <p class="social">
+            <a href="//facebook.com/oslobliny" class="facebook external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-facebook"></i></a>
+            <a href="//twitter.com/oslobliny" class="twitter external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-twitter"></i></a>
+            <a href="//www.instagram.com/explore/tags/oslobliny/" class="instagram external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-instagram"></i></a>            
+            <a href="/contact" class="email external" data-animate-hover="shake"><i class="fa fa-envelope"></i></a>
+          </p>
+        <p><a href="/contact" class="btn btn-small btn-template-main">{{ "Nyhetsbrev" }}</a></p>
         </div>
         <!-- /.col-md-4 -->
 
