@@ -7,7 +7,7 @@ pricing:
   heading: ''
   plans: []
 summary: Personlig tilpasset
-title: Bli Ny
+title: Oslo Bli Ny
 tags:
   - makeup
   - bliny
@@ -26,3 +26,4 @@ Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
