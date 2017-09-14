@@ -62,7 +62,7 @@
                                         </p>
                                     </div>
 
-                                    <p class="intro">{{ .Summary }}</p>
+                                    <p class="intro">{{ .Summary | safeHTML | truncate 10 }} </p>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="clearfix">
