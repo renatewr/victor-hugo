@@ -14,8 +14,7 @@
 
             <!-- *** BLOG HOMEPAGE *** -->
 
-                {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
-                {{ range first 6 $posts.Pages }}
+                {{ range sort .Data.Pages "Params.order" (where .Data.Pages "Type" "blog") }}
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
