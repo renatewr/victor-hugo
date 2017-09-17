@@ -6,7 +6,7 @@ pricing:
   heading: ''
   plans:
     - description: Bli ny - Brud
-      plan: '6'
+      plan: 6 timer
       price: På forespørsel
 summary: Personlig tilpasset
 title: Oslo Bli Ny
