@@ -4,7 +4,10 @@ date: 2017-05-08T22:00:00.000Z
 status: '0'
 pricing:
   heading: ''
-  plans: []
+  plans:
+    - description: Bli ny - Brud
+      plan: '6'
+      price: På forespørsel
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -27,5 +30,6 @@ Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
 
 
