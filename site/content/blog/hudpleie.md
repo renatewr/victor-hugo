@@ -1,5 +1,6 @@
 ---
 title: Hudpleie
+order: '3'
 categories:
   - oslobliny
 tags:
@@ -41,3 +42,4 @@ pricing:
 Vi benytter oss av unike og effektive maskiner - vi skreddersyr din behandling for optimalt resultat. Alle mennesker har ulik hudtype. Vi kombinerer hudmaskiner og effektive produkter tilpasset din hudtype og behov.
 
 For deg som ønsker en ungdommelig og frisk hud. 
+
