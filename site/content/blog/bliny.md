@@ -1,6 +1,5 @@
 ---
-categories:
-  - oslobliny
+order: '1'
 date: 2017-05-08T22:00:00.000Z
 status: '0'
 pricing:
@@ -8,6 +7,8 @@ pricing:
   plans: []
 summary: Personlig tilpasset
 title: Oslo Bli Ny
+categories:
+  - oslobliny
 tags:
   - makeup
   - bliny
@@ -26,4 +27,5 @@ Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
 
