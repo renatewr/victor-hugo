@@ -1,33 +1,26 @@
 <footer id="footer">
-    <div class="container">
-
-        {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
-
-            {{ .Site.Params.about_us | markdownify }}
-
-            <a href="/about" class="btn btn-small btn-template-main">{{ "Om Cecilie Bibow" }}</a>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
-
-
-        <div class="col-md-6 col-sm-12">
-          <p class="social">
-            <a href="//facebook.com/oslobliny" class="facebook external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-facebook"></i></a>
-            <a href="//twitter.com/oslobliny" class="twitter external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-twitter"></i></a>
-            <a href="//www.instagram.com/explore/tags/oslobliny/" class="instagram external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-instagram"></i></a>
-            <a href="/contact" class="email external"><i class="fa fa-envelope"></i></a>
-            <a href="/contact" class="email external" data-animate-hover="shake"><i class="fa fa-map-marker" aria-hidden="true"></i></a>
-          </p>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-6">
+        <p><a href="/about" class="btn btn-small btn-template-main">{{ "Om Cecilie Bibow" }}</a></p>
+        <hr class="hidden-md hidden-lg hidden-sm">
         <p><a href="/Nyhetsbrev" class="btn btn-small btn-template-main">{{ "Nyhetsbrev" }}</a></p>
-        </div>
+        <hr class="hidden-md hidden-lg hidden-sm">
+      </div>
         <!-- /.col-md-4 -->
 
+      <div class="col-md-4 col-sm-6">
+        <p class="social">
+          <a href="//facebook.com/oslobliny" class="facebook external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-facebook"></i></a>
+          <a href="//twitter.com/oslobliny" class="twitter external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-twitter"></i></a>
+          <a href="//www.instagram.com/explore/tags/oslobliny/" class="instagram external" data-animate-hover="shake" style="opacity: 1;"><i class="fa fa-instagram"></i></a>
+          <a href="/contact" class="email external"><i class="fa fa-envelope"></i></a>
+          <a href="/contact" class="email external" data-animate-hover="shake"><i class="fa fa-map-marker" aria-hidden="true"></i></a>
+        </p>
+      </div>
 
+        <!-- /.col-md-4 -->
+      </div>
     </div>
     <!-- /.container -->
 </footer>
@@ -41,7 +34,8 @@ _________________________________________________________ -->
 
 <div id="copyright">
     <div class="container">
-        <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
             {{ end }}
@@ -52,6 +46,7 @@ _________________________________________________________ -->
               {{ "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
             </p>
         </div>
+      </div>
     </div>
 </div>
 <!-- /#copyright -->
