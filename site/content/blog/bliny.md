@@ -1,6 +1,13 @@
 ---
+title: Oslo Bli Ny
 order: '1'
+categories:
+  - oslobliny
+tags:
+  - makeup
+  - bliny
 date: 2017-05-08T22:00:00.000Z
+image: /img/blinypakker.jpg
 status: '0'
 pricing:
   heading: ''
@@ -9,13 +16,6 @@ pricing:
       plan: 6 timer
       price: På forespørsel
 summary: Personlig tilpasset
-title: Oslo Bli Ny
-categories:
-  - oslobliny
-tags:
-  - makeup
-  - bliny
-image: /img/blinypakker.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
@@ -30,12 +30,8 @@ Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling, klesveile
 
 Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
 
+Tekst far ipad
+
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
-
-
-
-
-
-
