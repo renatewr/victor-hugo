@@ -6,18 +6,18 @@ pricing:
   heading: ''
   plans:
     - description: >-
-        Bli ny - Dame. Du blir med meg i butikker hvor jeg finner klær og
+        Oslo Bli Ny - Dame. Du blir med meg i butikker hvor jeg finner klær og
         tilbehør i farger og stil som passer deg. Deretter blir du sminket og
         tatt med til en dyktig frisør.
       plan: 5-6 timer
       price: 'Kr 5000 - 6000,-'
-    - description: Bli ny - Venninnekveld
+    - description: Venninnekveld
       plan: 4 timer
       price: På forespørsel
-    - description: Bli ny - Brud
+    - description: Brud
       plan: 2 timer
       price: På forespørsel
-    - description: "Bli Ny\_- Grupper. Mini bli-ny dager for bedrifter og andre private grupper."
+    - description: Grupper. Mini bli-ny dager for bedrifter og andre private grupper.
       plan: 3 timer
       price: På forespørsel
     - description: 'Makeup, farge- og figurveiledning'
@@ -48,4 +48,5 @@ Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
 
