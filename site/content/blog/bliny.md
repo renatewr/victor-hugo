@@ -10,7 +10,7 @@ pricing:
         tilbehør i farger og stil som passer deg. Deretter blir du sminket og
         tatt med til en dyktig frisør.
       plan: 5-6 timer
-      price: 5000 - 6000
+      price: 'Kr 5000 - 6000,-'
     - description: Bli ny - Venninnekveld
       plan: 4 timer
       price: På forespørsel
@@ -20,6 +20,9 @@ pricing:
     - description: "Bli Ny\_- Grupper. Mini bli-ny dager for bedrifter og andre private grupper."
       plan: 3 timer
       price: På forespørsel
+    - description: 'Makeup, farge- og figurveiledning'
+      plan: 2 timer
+      price: 'Kr 2000,-'
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -45,3 +48,4 @@ Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
