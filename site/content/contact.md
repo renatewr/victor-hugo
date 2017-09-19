@@ -3,7 +3,7 @@ description: Kontakt oss gjerne
 title: Kontakt
 id: contact
 ---
-# Meld deg på vårt nyhetsbrev!
+# Få nyheter, tips og tilbud rett i innboksen - helt gratis!
 
 Epost : cecilie@oslobliny.no
 
