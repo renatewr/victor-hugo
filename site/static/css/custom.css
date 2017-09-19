@@ -1,12 +1,10 @@
 /* your styles go here */
 
 
-body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+body {  
   font-size: 20px;
   line-height: 1.42857143;
   color: #555555;
-  font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	line-height: 1.8;
 
 }
