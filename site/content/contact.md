@@ -3,7 +3,9 @@ description: Kontakt oss gjerne
 title: Kontakt
 id: contact
 ---
-# Få nyheter, tips og tilbud rett i innboksen - helt gratis!
+# Ta kontakt med meg for spørsmål eller bestilling!
+
+Eller ta kontakt på telefon!
 
 Epost : cecilie@oslobliny.no
 
