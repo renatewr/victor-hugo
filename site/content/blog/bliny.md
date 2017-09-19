@@ -17,6 +17,9 @@ pricing:
     - description: Bli ny - Brud
       plan: 2 timer
       price: På forespørsel
+    - description: "Bli Ny\_- Grupper. Mini bli-ny dager for bedrifter og andre private grupper."
+      plan: 3 timer
+      price: På forespørsel
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -37,13 +40,8 @@ Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling, klesveile
 * Fargeanalyse
 * Stilanalyse
 
-Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
-
-Tekst far ipad
+Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
-
-
-
