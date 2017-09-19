@@ -23,6 +23,13 @@ pricing:
     - description: 'Makeup, farge- og figurveiledning'
       plan: 2 timer
       price: 'Kr 2000,-'
+    - description: >-
+        Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses
+        dine ønsker og behov. Dette inngår i Bli Ny - dagen: Fargeanalyse,
+        stilanalyse, klesveiledning i butikker, brille - og smykkeveiledning
+        samt garderobeplanlegging.
+      plan: fra 3 timer
+      price: 'fra kr 3000,-'
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -50,3 +57,4 @@ Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 Mini Bli Ny - dager for bedrifter og andre private grupper tilbyr jeg også.
 
 Pris på forespørsel!
+
