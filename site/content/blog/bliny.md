@@ -1,13 +1,6 @@
 ---
-title: Oslo Bli Ny
 order: '1'
-categories:
-  - oslobliny
-tags:
-  - makeup
-  - bliny
 date: 2017-05-08T22:00:00.000Z
-image: /img/blinypakker.jpg
 status: '0'
 pricing:
   heading: ''
@@ -15,7 +8,17 @@ pricing:
     - description: Bli ny - Brud
       plan: 6 timer
       price: På forespørsel
+    - description: Bli ny - venninnekveld
+      plan: 4 timer
+      price: På forespørsel
 summary: Personlig tilpasset
+title: Oslo Bli Ny
+categories:
+  - oslobliny
+tags:
+  - makeup
+  - bliny
+image: /img/blinypakker.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
@@ -35,3 +38,4 @@ Tekst far ipad
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
