@@ -38,15 +38,15 @@ Har du glemt deg selv i en stressende og hektisk hverdag! Litt lei av den gamle 
 
 Følgende inngår i din helt egen Bli Ny - dag:
 
-Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling, klesveiledning i butikker, brille - og smykkeveiledning, garderobeplanlegging. Vi legger inn en deilig lunsj i løpet dagen. Frukt og forfriskninger er selvfølgelig inkludert.
-
 * Fargeanalyse
 * Stilanalyse
+* Makeupkurs
+* Hårtips og frisørbehandling
+* Klesveiledning i butikker, brille - og smykkeveiledning, garderobeplanlegging
+* Vi legger inn en deilig lunsj i løpet dagen. Frukt og forfriskninger er selvfølgelig inkludert.
 
 Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 
-Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
+Mini Bli Ny - dager for bedrifter og andre private grupper tilbyr jeg også.
 
 Pris på forespørsel!
-
-
