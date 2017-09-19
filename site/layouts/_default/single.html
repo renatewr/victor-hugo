@@ -30,13 +30,14 @@
                             {{ end }}
 
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}</p>
-                        {{ partial "pricing" .Params.pricing }}
+
                         <div class="post-description">
                           {{ .Description }}
                         </div>
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+                        {{ partial "pricing" .Params.pricing }}
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
