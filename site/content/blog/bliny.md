@@ -11,6 +11,12 @@ pricing:
     - description: Bli ny - venninnekveld
       plan: 4 timer
       price: På forespørsel
+    - description: >-
+        Bli ny - dame. Du blir med meg i butikker hvor jeg finner klær og
+        tilbehør i farger og stil som passer deg. Deretter blir du sminket og
+        tatt med til en dyktig frisør.
+      plan: 5-6 timer
+      price: 5000 - 6000
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -38,4 +44,5 @@ Tekst far ipad
 Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private grupper.
 
 Pris på forespørsel!
+
 
