@@ -7,8 +7,6 @@
 
                 {{ .Content }}
 
-                {{ if isset .Site.Params "email" }}
-
                 <div class="heading">
                   <h3>{{ "Mail skjema" }}</h3>
                 </div>
@@ -46,26 +44,9 @@
                     <!-- /.row -->
                 </form>
 
-                {{ end }}
-
             </section>
 
-        </div>
-
-        <div class="col-md-4">
-
-            {{ if isset .Site.Params "address" }}
-            <section>
-
-              <h4> {{ "Kontaktdetaljer" }}</h4>
-
-                {{ .Site.Params.address | safeHTML }}
-
-            </section>
-
-            {{ end }}
-
-        </div>
+        </div>        
 
     </div>
     <!-- /.row -->

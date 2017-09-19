@@ -3,11 +3,11 @@
 
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.42857143;
   color: #555555;
   font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-	line-height: 1.5;
+	line-height: 1.8;
 
 }
 
@@ -83,7 +83,7 @@ body {
 .page section.image{
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
   height: 40vh;
   min-height:200px;
 }

@@ -16,29 +16,14 @@
 </section>
   <div class="container bedrift" id="contact">
       <div class="row">
-          <div class="col-md-8">
+          <div class="col-md-12">
               <section>
 
                   {{ .Content }}
 
               </section>
 
-          </div>
-
-          <div class="col-md-4">
-
-              {{ if isset .Site.Params "address" }}
-              <section>
-
-              <h3 class="text-uppercase"> {{ "contactAddrTitle" }}</h3>
-
-                {{ .Site.Params.address | safeHTML }}
-
-            </section>
-
-            {{ end }}
-
-        </div>
+          </div>          
 
     </div>
     <!-- /.row -->
