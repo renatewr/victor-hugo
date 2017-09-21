@@ -1,12 +1,12 @@
 {{ if isset .Site.Params "see_more" }}
 {{ if .Site.Params.see_more.enable }}
-<section class="bar background-image-fixed-2 no-mb color-white text-center">
-    <div class="dark-mask"></div>
-    <div class="container">
-      {{ range where .Data.Pages "Title" "Home" }}
+{{ range where .Data.Pages "Title" "Home" }}
+<section class="bar background-image-fixed-2 no-mb color-white text-center" style="overflow:hidden;background-image: url('..{{ .Params.image}}')">  
+  <div class="dark-mask"></div>
+      <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="icon icon-lg"><i class="fa {{ .Params.top_icon }}"></i>                  
+                <div class="icon icon-lg"><i class="fa {{ .Params.top_icon }}"></i>
                 </div>
                 <h3 class="text-uppercase">{{ .Params.top_heading | markdownify }}</h3>
                 <p class="lead">{{ .Params.top_sub_heading }}</p>
@@ -14,10 +14,10 @@
                     <a href="{{ .Params.top_link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Params.top_link_text }}</a>
                 </p>
             </div>
-
+          </div>
         </div>
+        </section>
       {{ end }}
-    </div>
-</section>
+
 {{ end }}
 {{ end }}
