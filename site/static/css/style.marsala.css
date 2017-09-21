@@ -1826,8 +1826,12 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .bar.background-image-fixed-2 {
   background: url('../img/fixed-background-2.jpg') center top no-repeat;
-  background-attachment: fixed;
   background-size: cover;
+}
+@media (min-width: 980px) {  
+  .bar.background-image-fixed-2 {
+    background-attachment: fixed;
+  }
 }
 .bar.color-white h1,
 .bar.color-white h2,
@@ -2645,7 +2649,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: none;
   margin-bottom: 0;
 }
-#footer .social a {  
+#footer .social a {
   font-size: 25px;
   margin: 0 10px 0 0;
 }
