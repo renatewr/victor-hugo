@@ -1,6 +1,13 @@
 ---
+title: Oslo Bli Ny
 order: '1'
+categories:
+  - oslobliny
+tags:
+  - makeup
+  - bliny
 date: 2017-05-08T22:00:00.000Z
+image: /img/blinypakker.jpg
 status: '0'
 pricing:
   heading: ''
@@ -24,13 +31,6 @@ pricing:
       plan: fra 3 timer
       price: 'fra kr 3000,-'
 summary: Personlig tilpasset
-title: Oslo Bli Ny
-categories:
-  - oslobliny
-tags:
-  - makeup
-  - bliny
-image: /img/blinypakker.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
@@ -38,9 +38,9 @@ Har du glemt deg selv i en stressende og hektisk hverdag! Litt lei av den gamle 
 
 Unn deg selv eller en du er glad i en Bli Ny dag.
 
-Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.
+Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.kll,lkkjjjkkkl
 
-Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov. 
+Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
 
 Følgende inngår i din helt egen Bli Ny - dag:
 
