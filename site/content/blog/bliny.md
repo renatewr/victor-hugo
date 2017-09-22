@@ -40,7 +40,7 @@ Unn deg selv eller en du er glad i en Bli Ny dag.
 
 Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.
 
-Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov. 
+Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
 
 Følgende inngår i din helt egen Bli Ny - dag:
 
@@ -52,7 +52,5 @@ Følgende inngår i din helt egen Bli Ny - dag:
 * Vi legger inn en deilig lunsj i løpet dagen. Frukt og forfriskninger er selvfølgelig inkludert.
 
 Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
-
-![cecilie farger](/img/cecilie.jpg)
 
 Pris på forespørsel!
