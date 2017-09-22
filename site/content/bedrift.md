@@ -8,7 +8,7 @@ top_icon: fa-medkit
 top_sub_heading: >-
   Forebyggende behandling for ansatte i en bedrift kan redusere helseplager og
   sykefravær.
-image: /img/massasje_2.jpg
+image: /img/massasje_2.png
 ---
 I en del yrker kan belastningsskader, smerter i ledd og muskler lett oppstå. Ved å tilby forebyggede behandling, kan bedriften redusere sykefravær, samt bedre arbeidsdagen for de ansatte. Velværemassasje med oljer eller effektiv massasje. Vi skreddersyr behandling etter ønsker og behov. Når skaden er oppstått kan det være nødvendig og gå dypere og litt hardere til verks. Vi kommer til din bedrift og har med benk og nødvendig utstyr. Vi trenger et rom som stilles til rådighet.
 
@@ -30,4 +30,5 @@ Ved faste avtaler og langvarig oppdrag, ta kontakt for egne priser.
 * Meget god omtale, spraytan og apparater til bruk ved slanking, TV2 og P4
 * Garderobesortering, The Voice TV
 * Stylist for brudemagasiner og brudeshow i Europa
+
 
