@@ -9,7 +9,7 @@ tags:
   - reflexologi
   - lymfedrenasje
 date: 2017-05-24T14:39:28.850Z
-image: /img/massage.jpg
+image: /img/massasje_2 (1).png
 status: '0'
 pricing:
   heading: >-
@@ -57,6 +57,7 @@ Vi mennesker er flinke til og vedlikeholde hus og hjem. Vi tar service på våre
 Massasje, enten det er for ren velvære eller du har muskelskader og spenninger, er en god investering i egen helse. Vi tilbyr flere ulike former for behandling. Vi tilpasser oss ditt behov. Sammen finner vi ut hva som passer deg best med mål om at din kropp skal fungere bedre og at energilageret fylles opp.
 
 Vi bruker stretching og reflexologi i flere av våre massasjebehandlinger
+
 
 
 
