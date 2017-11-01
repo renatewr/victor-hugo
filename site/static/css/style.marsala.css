@@ -1825,14 +1825,15 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/fixed-background-2.jpg') center top no-repeat;
+  background-position: 20% 80%;
+  background-repeat: no-repeat;
   background-size: cover;
 }
-@media (min-width: 980px) {  
+/*@media (min-width: 980px) {
   .bar.background-image-fixed-2 {
     background-attachment: fixed;
   }
-}
+}*/
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
