@@ -1,7 +1,6 @@
 ---
 title: Home
 date: 2017-05-16T19:59:48.898Z
-image: /img/fixed-background-2.jpg
 top_heading: Bli Ny for damer og menn
 top_icon: fa-heart-o
 top_sub_heading: >-
@@ -9,6 +8,7 @@ top_sub_heading: >-
   i fokus.
 top_link_text: Les mer
 top_link_url: /blog/smertelindring/
+image: /img/top_blinypakker.jpg
 testemonialheading: Hva kundene sier
 testimonials:
   - author: Eirin
@@ -25,4 +25,5 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
