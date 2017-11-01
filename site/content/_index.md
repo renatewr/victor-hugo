@@ -7,7 +7,7 @@ top_sub_heading: >-
   Hverdagen er ofte stressende. Du fortjener et avbrekk hvor din velvære settes
   i fokus.
 top_link_text: Les mer
-top_link_url: /blog/smertelindring/
+top_link_url: /blog/bliny/
 image: /img/top_blinypakker.jpg
 testemonialheading: Hva kundene sier
 testimonials:
@@ -25,5 +25,6 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
