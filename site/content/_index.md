@@ -2,7 +2,7 @@
 title: Home
 date: 2017-05-16T19:59:48.898Z
 image: /img/fixed-background-2.jpg
-top_heading: Velværebehandlinger for damer og menn
+top_heading: Bli Ny for damer og menn
 top_icon: fa-heart-o
 top_sub_heading: >-
   Hverdagen er ofte stressende. Du fortjener et avbrekk hvor din velvære settes
@@ -25,3 +25,4 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
