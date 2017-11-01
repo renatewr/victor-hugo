@@ -1,13 +1,6 @@
 ---
-title: Oslo Bli Ny
-order: '1'
-categories:
-  - oslobliny
-tags:
-  - makeup
-  - bliny
+order: '4'
 date: 2017-05-08T22:00:00.000Z
-image: /img/blinypakker.jpg
 status: '0'
 pricing:
   heading: ''
@@ -31,6 +24,13 @@ pricing:
       plan: fra 3 timer
       price: 'fra kr 3000,-'
 summary: Personlig tilpasset
+title: Oslo Bli Ny
+categories:
+  - oslobliny
+tags:
+  - makeup
+  - bliny
+image: /img/blinypakker.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
@@ -54,3 +54,4 @@ Følgende inngår i din helt egen Bli Ny - dag:
 Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 
 Pris på forespørsel!
+
