@@ -55,6 +55,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Top subtitle, name: top_sub_heading, widget: string}
           - {label: Top button text, name: top_link_text, widget: string}
           - {label: Top button link adress, name: top_link_url, widget: string}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: Heading for testemonial, name: testemonialheading, widget: string}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}, {label: Position, name: position, widget: string}]}
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
