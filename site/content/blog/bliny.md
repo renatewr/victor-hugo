@@ -36,9 +36,9 @@ image: /img/blinypakker.jpg
 
 Har du glemt deg selv i en stressende og hektisk hverdag! Litt lei av den gamle frisyren? Garderoben gått ut på dato! På tide og få frem den gamle gløden.
 
-Unn deg selv eller en du er glad i en Bli Ny dag.mnjj
+Unn deg selv eller en du er glad i en Bli Ny dag.
 
-Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.kll,lkkjjjkkkl
+Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.
 
 Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
 
@@ -54,4 +54,3 @@ Følgende inngår i din helt egen Bli Ny - dag:
 Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
 
 Pris på forespørsel!
-
