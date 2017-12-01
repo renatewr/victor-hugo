@@ -12,8 +12,8 @@ pricing:
   heading: Hudpleiebehandlinger
   plans:
     - description: >-
-        Collagenstimulering. Gir ungdommelig spenst, fordeler collagenet, gir
-        fukt i dybden og forebygger rynker
+        Collagenstimulering. Gir ungdommelig spenst, fordeler collagen, gir fukt
+        i dybden og forebygger rynker. (Eneste maskin i Norge.)
       plan: 30 min
       price: 'Kr 600,-'
     - description: Collagenstimulering kur
@@ -42,3 +42,4 @@ pricing:
 Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype og ditt behov.
 
 Vi benytter unike og effektive maskiner som gir synlige resultater allerede etter første behandling. Blant annet kan vi suge opp hudormer i alle hudlag, fjerne vannansamlinger, fordele kollagen i ansiktet og gi en effektiv og forfriskende fuktboost. Dette på en langt mer effektiv måte enn tradisjonell hudpleie. 
+
