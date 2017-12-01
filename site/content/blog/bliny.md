@@ -17,9 +17,9 @@ pricing:
     - description: Grupper
       plan: 3 timer
       price: På forespørsel
-    - description: 'Makeup, farge- og figurveiledning'
-      plan: 2 timer
-      price: 'Kr 2000,-'
+    - description: 'Makeup, farge- og stilveiledning med butikkrunde'
+      plan: 4 timer
+      price: 'fra kr 3500,-'
     - description: Oslo Bli Ny - Mann
       plan: fra 3 timer
       price: 'fra kr 3000,-'
@@ -63,3 +63,4 @@ Mini Bli Ny dag for grupper, med farge-, makeup- og stiltips, tilbys til kr 2500
 Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
 
 Vi kan også stille som veileder for grupper i bedrifter og privat.
+
