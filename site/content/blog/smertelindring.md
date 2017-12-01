@@ -22,10 +22,10 @@ pricing:
         Aromamassasje. Full kropsmassasje med oljer. En beroligende og
         avslappende behandling som myker opp og gir kroppen ny energi.
       plan: 80 min
-      price: 'Kr 990,-'
+      price: 'Kr 890,-'
     - description: >-
         Massasje for rygg, nakke og armer. Løser spenninger, muskelknuter og
-        øker blodsirkulasjon. Med oljer.
+        øker blodsirkulasjon. Med tilpassede oljer.
       plan: 60 min
       price: 'Kr 790,-'
     - plan: 30 min
@@ -54,8 +54,9 @@ pricing:
 ---
 Vi mennesker er flinke til og vedlikeholde hus og hjem. Vi tar service på våre biler og båter. Dessverre er vi ikke like flinke til og ta vare på oss selv. Kropp og sjel trenger også pleie i en ofte hektisk og krevende hverdag.
 
-Massasje er en god investering i egen helse, enten det er for ren velvære eller for å lindre muskelsmerter. Vi tilbyr flere ulike former for behandling.
+Massasje er en god investering i egen helse, enten det er for ren velvære eller for å lindre muskelsmerter. Vi tilbyr flere ulike former for behandling. 
 
-Vi tilpasser alle våre behandlinger etter ditt behov. Sammen finner vi ut hva som passer deg aller best. Målet vårt er at du skal føle deg bedre, ha mindre smerter og få mer energi.
+Vi tilpasser alle våre behandlinger etter ditt behov. Sammen finner vi ut hva som passer deg best. Målet vårt er at du skal føle deg bedre, ha mindre smerter og få mer energi. 
 
 Vi skreddersyr våre massasje- og smertebehandlinger for  å gi deg de aller beste resultatene og bruker blant annet kopping, stretching og reflexologi i flere av våre behandlinger.
+
