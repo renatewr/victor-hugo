@@ -23,6 +23,11 @@ pricing:
     - description: Oslo Bli Ny - Mann
       plan: fra 3 timer
       price: 'fra kr 3000,-'
+    - description: >-
+        Fargeanalyse og makeupkurs. Lær alt om dine beste farger i tøy og
+        makeupteknikker.
+      plan: 2 timer
+      price: Kr 1790
 summary: Personlig tilpasset
 title: Oslo Bli Ny
 categories:
@@ -63,4 +68,5 @@ Mini Bli Ny dag for grupper, med farge-, makeup- og stiltips, tilbys til kr 2500
 Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
 
 Vi kan også stille som veileder for grupper i bedrifter og privat.
+
 
