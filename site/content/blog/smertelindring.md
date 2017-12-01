@@ -46,8 +46,8 @@ pricing:
       price: 'Kr 590,-'
     - description: >-
         Lymfedrenasje. Aktiviserer lymfesystemet og får i gang kroppens eget
-        renovasjonssytem. Vi bruker rensende oljer og vakuumbehandling. Gir mye
-        energi og overskudd. Øker forbrenning og styrker imunforsvar.
+        renovasjonssytem. Vi bruker rensende oljer og vakuumbehandling. Gir
+        energi og overskudd. Øker forbrenningen og styrker immunforsvaret.
       plan: 60 min
       price: 'Kr 790,-'
     - plan: 30 min
@@ -60,6 +60,7 @@ Massasje er en god investering i egen helse, enten det er for ren velvære eller
 Vi tilpasser alle våre behandlinger etter ditt behov. Sammen finner vi ut hva som passer deg best. Målet vårt er at du skal føle deg bedre, ha mindre smerter og få mer energi. 
 
 Vi skreddersyr våre massasje- og smertebehandlinger for  å gi deg de aller beste resultatene og bruker blant annet kopping, stretching og reflexologi i flere av våre behandlinger.
+
 
 
 
