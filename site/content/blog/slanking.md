@@ -20,13 +20,12 @@ pricing:
       plan: 20 behandlinger a 60 minutter
       price: 'Kr 9000,-'
 ---
-Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. Nå kan du punktslanke problemområdene dine. I kombinasjon med riktig kosthold og aktivitet vil du selvfølgelig se et raskere og bedre resultat.
+Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. 
+
+Nå kan du punktslanke problemområdene dine. I kombinasjon med riktig kosthold og aktivitet vil du selvfølgelig se et raskere og bedre resultat.
 
 Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsakelig på mage og radiofrekvens maskin på andre problemområder som rompe, lår og armer.
 
 Cecilie har fått strålende omtale i KK!
 
 Både for damer og menn
-
-
-
