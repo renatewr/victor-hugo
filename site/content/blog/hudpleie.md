@@ -28,7 +28,7 @@ pricing:
         Dyprens med ultralyd og velgjørende massasje. Suger opp hudormer fra
         alle hudlag skånsomt og effektivt.
       plan: 60 min
-      price: 'Kr 690,-'
+      price: 'Kr 790,-'
     - description: 'Hudsliping. Jevner ut huden for linjer, porer, arr og pigmenteringer.'
       plan: 10 min
       price: 'Kr 600,-'
@@ -42,4 +42,5 @@ pricing:
 Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype og ditt behov.
 
 Vi benytter unike og effektive maskiner som gir synlige resultater allerede etter første behandling. Blant annet kan vi suge opp hudormer i alle hudlag, fjerne vannansamlinger, fordele kollagen i ansiktet og gi en effektiv og forfriskende fuktboost. Dette på en langt mer effektiv måte enn tradisjonell hudpleie. 
+
 
