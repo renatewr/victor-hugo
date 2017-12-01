@@ -39,10 +39,6 @@ pricing:
       plan: 60 min
       price: 'Kr 690,-'
 ---
-Vi benytter oss av unike og effektive maskiner - vi skreddersyr din behandling for optimalt resultat. Alle mennesker har ulik hudtype. Vi kombinerer hudmaskiner og effektive produkter tilpasset din hudtype og behov.
+Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype og ditt behov.
 
-For deg som ønsker en ungdommelig og frisk hud. 
-
-
-
-
+Vi benytter unike og effektive maskiner som gir synlige resultater allerede etter første behandling. Blant annet kan vi suge opp hudormer i alle hudlag, fjerne vannansamlinger, fordele kollagen i ansiktet og gi en effektiv og forfriskende fuktboost. Dette på en langt mer effektiv måte enn tradisjonell hudpleie. 
