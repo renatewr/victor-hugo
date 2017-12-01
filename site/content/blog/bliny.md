@@ -34,15 +34,17 @@ image: /img/blinypakker.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
-Har du glemt deg selv i en stressende og hektisk hverdag! Litt lei av den gamle frisyren? Garderoben gått ut på dato! På tide og få frem den gamle gløden.
+Har du glemt deg selv i en stressende og hektisk hverdag? Litt lei av den gamle frisyren? Har garderoben gått ut på dato? Er det på tide og få frem den gamle gløden? 
 
-Unn deg selv eller en du er glad i en Bli Ny dag.
+Unn deg selv eller en du er glad i farge- og stiltips, makeupkurs eller en Bli Ny dag. 
 
-Mini Bli Ny - dager for bedrifter og andre private grupper kan også arrangeres.
+Hos oss kan du skreddersy Bli Ny dagen akkurat slik du måtte ønske. Du kan til og med kombinere Bli Ny dagen med våre velværebehandlinger. 
 
-Vi tilbyr diverse Bli Ny - pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
+Mini Bli Ny dager for bedrifter og andre private grupper kan også arrangeres.
 
-Følgende inngår i din helt egen Bli Ny - dag:
+Vi tilbyr diverse Bli Ny pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
+
+Følgende inngår i din helt egen Bli Ny dag:
 
 * Fargeanalyse
 * Stilanalyse
@@ -50,8 +52,14 @@ Følgende inngår i din helt egen Bli Ny - dag:
 * Hårtips og frisørbehandling
 * Klesveiledning i butikker, brille - og smykkeveiledning, garderobeplanlegging
 * Vi legger inn en deilig lunsj i løpet dagen. Frukt og forfriskninger er selvfølgelig inkludert.
+* Farge-, makeup- og stilskjema er inkludert
 
-Jeg tar utgangspunkt i dine naturlige farger og din personlige stil.
+Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
 
 Pris på forespørsel!
 
+Mini Bli Ny dag for grupper, med farge-, makeup- og stiltips, tilbys til kr 2500 per person. For større grupper er prisen 1950.
+
+Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
+
+Vi kan også stille som veileder for grupper i bedrifter og privat.
