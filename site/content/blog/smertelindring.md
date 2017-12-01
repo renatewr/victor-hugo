@@ -31,10 +31,10 @@ pricing:
     - plan: 30 min
       price: 'Kr 490,-'
     - description: >-
-        Smertebehandling - Idrettsmassasje. Her jobber vi dypere i
-        muskelaturen.Vi løser muskelkunter, stivhet og stretcher musklene.
+        Smertebehandling. Kombineres med idrettsmassasje. Her jobber vi dypere i
+        muskelaturen. Vi løser muskelknuter, stivhet og stretcher musklene.
         Effektiv og forebyggende behandling for å løse opp smertepunktene. Gir
-        en raksere og bedre restitusjon. 
+        en raskere og bedre restitusjon. 
       plan: 60 min
       price: 'Kr 790,-'
     - description: >-
@@ -59,4 +59,5 @@ Massasje er en god investering i egen helse, enten det er for ren velvære eller
 Vi tilpasser alle våre behandlinger etter ditt behov. Sammen finner vi ut hva som passer deg best. Målet vårt er at du skal føle deg bedre, ha mindre smerter og få mer energi. 
 
 Vi skreddersyr våre massasje- og smertebehandlinger for  å gi deg de aller beste resultatene og bruker blant annet kopping, stretching og reflexologi i flere av våre behandlinger.
+
 
