@@ -6,7 +6,7 @@ top_icon: fa-heart-o
 top_sub_heading: La Cecilie Bibow og hennes team få frem dine unike sider
 top_link_text: Les mer
 top_link_url: /blog/bliny/
-image: /img/top_blinypakker.jpg
+image: /img/ret_cecilie.jpg
 testemonialheading: Hva kundene sier
 testimonials:
   - author: Eirin
@@ -23,6 +23,7 @@ testimonials:
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
 ---
+
 
 
 
