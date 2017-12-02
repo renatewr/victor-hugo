@@ -35,7 +35,7 @@ categories:
 tags:
   - makeup
   - bliny
-image: /img/blinypakker.jpg
+image: /img/ret_cecilie.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
@@ -68,5 +68,6 @@ Mini Bli Ny dag for grupper, med farge-, makeup- og stiltips, tilbys til kr 2500
 Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
 
 Vi kan også stille som veileder for grupper i bedrifter og privat.
+
 
 
