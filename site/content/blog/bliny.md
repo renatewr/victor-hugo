@@ -1,9 +1,15 @@
 ---
+title: Oslo Bli Ny
 order: '4'
+categories:
+  - oslobliny
+tags:
+  - makeup
+  - bliny
 date: 2017-05-08T22:00:00.000Z
+image: /img/cec_ret_2.jpg
 status: '0'
 pricing:
-  heading: ''
   plans:
     - description: Oslo Bli Ny - Dame
       plan: 5-6 timer
@@ -28,14 +34,6 @@ pricing:
         makeupteknikker.
       plan: 2 timer
       price: Kr 1790
-summary: Personlig tilpasset
-title: Oslo Bli Ny
-categories:
-  - oslobliny
-tags:
-  - makeup
-  - bliny
-image: /img/ret_cecilie.jpg
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
