@@ -1,0 +1,75 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  netlify.configure({'site_id': https://ceciliebibow.netlify.com });
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/bedrift.md"
+        label: "Bedrift"
+        name: "bedrift"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: about}
+          - {label: Page, name: page, widget: hidden, default: "/about.html"}
+          - {label: Id, name: id, widget: hidden, default: "about"}
+          - {label: Top tittel, name: top_heading, widget: string}
+          - {label: Top icon fontawesome class, name: top_icon, widget: "string"}
+          - {label: Top subtitle, name: top_sub_heading, widget: string}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/contact.md"
+        label: "Kontakt"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: contact}
+          - {label: Page, name: page, widget: hidden, default: "/contact.html"}
+          - {label: Id, name: id, widget: hidden, default: "contact"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/about.md"
+        label: "Om Cecilie"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Type, name: type, widget: hidden, default: about}
+          - {label: Page, name: page, widget: hidden, default: "/about.html"}
+          - {label: Id, name: id, widget: hidden, default: "about"}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/_index.md"
+        label: "Forside"
+        name: "homepage"
+        fields:
+          - {label: Title, name: title, widget: hidden, default: home }
+          - {label: Id, name: id, widget: hidden, default: "home"}
+          - {label: Description, name: description, widget: hidden}
+          - {label: Date, name: date, widget: date}
+          - {label: Top tittel, name: top_heading, widget: string}
+          - {label: Top icon fontawesome class, name: top_icon, widget: "string"}
+          - {label: Top subtitle, name: top_sub_heading, widget: string}
+          - {label: Top button text, name: top_link_text, widget: string}
+          - {label: Top button link adress, name: top_link_url, widget: string}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: Heading for testemonial, name: testemonialheading, widget: string}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}, {label: Position, name: position, widget: string}]}
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Treatment" # Used in the UI, ie.: "New Post"
+    title: "Behandlinger"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Categories", name: "categories", widget: list, required: false}
+      - {label: "Tags", name: "tags", widget: list, required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Status", name: "status", widget: "string", required: false}
+      - {label: Pricing, name: pricing, widget: object, required: false,   fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
+      - {label: "Body", name: "body", widget: "markdown"}
