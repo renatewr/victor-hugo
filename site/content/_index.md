@@ -7,7 +7,7 @@ top_sub_heading: La Cecilie Bibow og hennes team få frem dine unike sider
 top_link_text: Les mer
 top_link_url: /blog/bliny/
 image: /img/cec_ret_2.jpg
-testemonialheading: Hva kundene sier
+testemonialheading: Hva kundene sier!
 testimonials:
   - author: Eirin
     position: Tromsø
