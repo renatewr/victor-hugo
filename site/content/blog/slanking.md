@@ -1,5 +1,6 @@
 ---
 title: Slanking
+ingress: Cecilie har fått strålende omtale i KK!  Både for damer og menn!!
 order: '4'
 categories:
   - oslobliny
