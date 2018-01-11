@@ -1,5 +1,9 @@
 ---
 title: Velvære for menn og damer i alle aldre
+ingress: >-
+  Vi mennesker er flinke til og vedlikeholde hus og hjem. Vi tar service på våre
+  biler og båter. Dessverre er vi ikke like flinke til og ta vare på oss selv.
+  Kropp og sjel trenger også pleie i en ofte hektisk og krevende hverdag.
 order: '2'
 categories:
   - oslobliny
@@ -12,11 +16,6 @@ date: 2017-05-24T14:39:28.850Z
 image: /img/massasje_2_20_281_29.png
 status: '0'
 pricing:
-  heading: >-
-    Vi tilbyr klassisk massasje, aroma, kopping, lymfedrenasje og stretching. Vi
-    skreddersyr massasjepakker etter gjestenes og bedriftenes ønsker og behov.
-    Er du ansatt eller eier en bedrift? Vi tilbyr gode grupperabatter når det er
-    flere som bestiller. Priser starter fra:
   plans:
     - description: >-
         Aromamassasje. Full kropsmassasje med oljer. En beroligende og

@@ -1,5 +1,9 @@
 ---
 title: Hudpleie
+ingress: >-
+  Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i
+  alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype
+  og ditt behov.
 order: '3'
 categories:
   - oslobliny
@@ -9,7 +13,6 @@ date: 2017-05-29T06:42:46.792Z
 image: /img/hudpleie_blur (1).png
 status: '0'
 pricing:
-  heading: Hudpleiebehandlinger
   plans:
     - description: >-
         Collagenstimulering. Gir ungdommelig spenst, fordeler collagen, gir fukt
