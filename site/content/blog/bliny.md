@@ -1,5 +1,6 @@
 ---
 title: Oslo Bli Ny
+ingress: La Cecilie Bibow og hennes team få frem dine unike sider.
 order: '4'
 categories:
   - oslobliny
