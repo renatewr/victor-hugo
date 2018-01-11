@@ -40,6 +40,8 @@ pricing:
 
 Har du glemt deg selv i en stressende og hektisk hverdag? Litt lei av den gamle frisyren? Har garderoben gått ut på dato? Er det på tide og få frem den gamle gløden? 
 
+![Bli ny med Sissel](/img/bli_ny_sissel_og_cecilie1-1679454-10-1460999723955.jpg)
+
 Les hva bloggeren Sissel Blunck skriver i [Oslo Bli Ny ved Cecilie Bibow ga meg tidenes overraskelse-anbefales varmt](http://sieri.blogg.no/1459209245_oslo_bli_ny_ved_cecil.html)
 
 Unn deg selv eller en du er glad i farge- og stiltips, makeupkurs eller en Bli Ny dag. 
