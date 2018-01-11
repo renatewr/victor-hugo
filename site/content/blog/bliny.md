@@ -40,6 +40,8 @@ pricing:
 
 Har du glemt deg selv i en stressende og hektisk hverdag? Litt lei av den gamle frisyren? Har garderoben gått ut på dato? Er det på tide og få frem den gamle gløden? 
 
+Les hva bloggeren Sissel Blunck skriver i [Oslo Bli Ny ved Cecilie Bibow ga meg tidenes overraskelse-anbefales varmt](http://sieri.blogg.no/1459209245_oslo_bli_ny_ved_cecil.html)
+
 Unn deg selv eller en du er glad i farge- og stiltips, makeupkurs eller en Bli Ny dag. 
 
 Hos oss kan du skreddersy Bli Ny dagen akkurat slik du måtte ønske. Du kan til og med kombinere Bli Ny dagen med våre velværebehandlinger. 
@@ -67,6 +69,3 @@ Mini Bli Ny dag for grupper, med farge-, makeup- og stiltips, tilbys til kr 2500
 Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
 
 Vi kan også stille som veileder for grupper i bedrifter og privat.
-
-
-
