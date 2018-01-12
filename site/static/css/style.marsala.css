@@ -3119,6 +3119,10 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #ffffff;
   border-color: #cccccc;
   border-bottom: none;
+  background:linear-gradient(135deg, #c5d4d7 6%, #d6b98d 45%, #c99262 69%, #ffa642 104%);
+  
+  background: linear-gradient(135deg, #555351 0%, #555351 5%, #8d7b6c 40%, #cc9d7a 70%, #fff9aa 100%);
+  background: linear-gradient(135deg, #fff 0%, #fff 5%, #fff 40%, rgb(239, 191, 58)70%, rgb(204, 139, 4)100%);
 }
 .navbar-default .navbar-brand {
   color: #555555;
