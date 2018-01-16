@@ -46,6 +46,4 @@ Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i a
 
 Vi benytter unike og effektive maskiner som gir synlige resultater allerede etter første behandling. Blant annet kan vi suge opp hudormer i alle hudlag, fjerne vannansamlinger, fordele kollagen i ansiktet og gi en effektiv og forfriskende fuktboost. Dette på en langt mer effektiv måte enn tradisjonell hudpleie.
 
-<iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/M7lc1UVf-VE"
-frameborder="0" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJYFajrlx7s?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
