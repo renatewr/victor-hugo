@@ -22,5 +22,13 @@ testimonials:
       proff massasje av rygg nakke og armer på min frisørkropp. Dette var
       virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
       erfaring! Kan anbefales på det sterkeste!
+  - author: Gro Elisabeth
+    position: Oslo
+    quote: >-
+      Søndag 4 desember fikk min samboer og jeg gleden av å stifte kjennskap med
+      dette fantastiske menneske. Vi fikk begge en utrulig massasje og kopping
+      som virkelig fikk løsnet opp på muskelknuter og diverse andre plager.
+      Hennes kompetanse i sammen med hennes gode og behagelig væremåte gjorde
+      denne behandling fantastisk. Anbefaler virkelig!
 ---
 
