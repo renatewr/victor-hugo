@@ -1,6 +1,4 @@
 ---
-date: '2016-09-09T10:15:23-04:00'
-draft: false
 title: Bedriftsmassasje
 id: bedrift
 top_heading: Ta vare på dine ansatte
@@ -18,18 +16,8 @@ Pris kr 5.900,- eks mva.  Område: stor Oslo og omegn.
 
 Ved faste avtaler og langvarig oppdrag, ta kontakt for egne priser.
 
-## **Utførte oppdrag:**
-
-* Veileder, farge/stil, hudpleie, kroppspleie, spraytan for Top Models TV3
-* Apparater til bruk ved slanking, Migrapolis NRK
-* Bli Ny - dag, Den rette for Tor, TV3
-* Bli Ny - dag, Fordi du fortjener det, TV Norge
-* Bli Ny - dag, Tuftegutta, TV Norge
-* Massasje, Skal vi danse, TV2
-* Meget god omtale, apparater til bruk ved slanking, KK
-* Meget god omtale, spraytan og apparater til bruk ved slanking, TV2 og P4
-* Garderobesortering, The Voice TV
-* Stylist for brudemagasiner og brudeshow i Europa
 
 
+Hva Trine Fausk fra ledelsen i Skedsmo fotballklubb sier om deres avtale: 
 
+"På Skedsmo Stadion er vi så heldige at Cecilie Bibow (bl.annet tidligere massør fra Clarion Hotel, og med mange år i bransjen) kommer og gir effektiv dyptgående massasje. Jeg anbefaler dette til alle jeg kjenner -jeg tror alle jeg kjenner har godt av å myke opp litt 😉, -og gir Cecile terningkast 6. "
