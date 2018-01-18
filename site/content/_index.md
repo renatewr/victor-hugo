@@ -84,5 +84,8 @@ testimonials:
       syvende himmel endelig en behandling som hjelper på en kropp med masse
       smerter. Jeg måtte bare la hele verden få vite om det. Håper jeg kan ta
       kontakt igjen når jeg behøver hjelp.
+  - author: Ida
+    position: Oslo
+    quote: "Kjempefornøyd Cecilie!! En fantastisk ansiktsbehandling med massasje, du leverer alltid. \U0001F600"
 ---
 
