@@ -30,20 +30,6 @@ testimonials:
       som virkelig fikk løsnet opp på muskelknuter og diverse andre plager.
       Hennes kompetanse i sammen med hennes gode og behagelig væremåte gjorde
       denne behandling fantastisk. Anbefaler virkelig!
-  - author: Sissel Irene
-    position: Kongsvinger
-    quote: >-
-      Det er ikke ofte jeg har opplevd slike overraskelser. Jeg var nemlig
-      tidligere i vår, så heldig å få lov til å delta på en bli ny dag hos Oslo
-      Bli Ny! Denne dagen, uansett om det var mye inntrykk og en lang dag, for
-      en med litt redusert helse, så vil jeg leve lenge på denne dagen. Og jeg
-      fikk en etterlengtet følelse av at det er faktisk ok å bruke litt tid på
-      seg selv i blant. Noe mange av oss glemmer i en travel og krevende
-      hverdag! Her deler jeg litt av dagen med dere. Og nei... det er ikke et
-      sponset innlegg, kun en takk fra meg, som er glad for at jeg fikk være med
-      på en slik dag <3 ..... og gutter og menn, eller hva dere foretrekker å
-      kalle dere selv, Cecilie er dyktig på å forvandle skjeggete hårete menn
-      også... til en kar dere ikke har sett siden skjeggveksten startet opp ;-)
   - author: Rita
     position: Ås
     quote: >-
