@@ -44,5 +44,13 @@ testimonials:
       på en slik dag <3 ..... og gutter og menn, eller hva dere foretrekker å
       kalle dere selv, Cecilie er dyktig på å forvandle skjeggete hårete menn
       også... til en kar dere ikke har sett siden skjeggveksten startet opp ;-)
+  - author: Rita
+    position: Ås
+    quote: >-
+      Tusen takk for super ansiktsbehandling som jeg fikk for ca. en uke siden.
+      Det satte jeg (og huden min) stor pris på. Jeg ble så forfjamset over at
+      den slitne, tørre, gustne huden min på magisk vis kunne bli så glatt og
+      glad at jeg glemte igjen klokka mi (jeg fikk den igjen i resepsjonen,
+      tusen takk, Cecilie). :-)
 ---
 
