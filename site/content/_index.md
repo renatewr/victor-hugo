@@ -54,5 +54,19 @@ testimonials:
       hele menneske og ikke minst for den måten du formidler og deler din
       kunnskap på! Jeg kommer garantert tilbake, og vill anbefale dine
       behandlinger videre! Klem Christine
+  - author: Siri
+    position: Risør
+    quote: >-
+      Kjære Cecilie Bibow, etter å ha vært hos deg 2 ganger så føler jeg meg fra
+      helvete til himmelen. Jeg har gått med smerter nå i 18 år, hodepine hver
+      dag, den er borte. Har gått til fysioterapi mange år, kiropraktor, nåler å
+      massasje andre steder. Du er den eneste som har greid å få bort smertene
+      mine. Kan anbefale alle som sliter med smerter om å bestille time hos
+      Cecilie Bibow.
+  - author: Jan Henrik
+    position: Oslo
+    quote: >-
+      Naboen min Danny ble veldig fornøyd med behandlingen han fikk av deg. Han
+      driver kjøreskole og sitter mye stille i bil. Du leverer alltid Cecilie.
 ---
 
