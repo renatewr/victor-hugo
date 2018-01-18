@@ -68,5 +68,21 @@ testimonials:
     quote: >-
       Naboen min Danny ble veldig fornøyd med behandlingen han fikk av deg. Han
       driver kjøreskole og sitter mye stille i bil. Du leverer alltid Cecilie.
+  - author: Anne
+    position: Charlottenberg
+    quote: 'Takk for fantastisk behandling, Cecilie. Ser fram til neste time.'
+  - author: Siri
+    position: Risør
+    quote: >-
+      Gratulerer så masse med flotte lokaler rett ved Karl Johan flinke dyktige
+      deg. Du har gjort livet mitt fra helvete til himmelen med din
+      smertebehandling.
+  - author: Jan Henrik
+    position: Oslo
+    quote: >-
+      Hei og tusen takk for fantasisk smertebehandling. Jeg er helt i den
+      syvende himmel endelig en behandling som hjelper på en kropp med masse
+      smerter. Jeg måtte bare la hele verden få vite om det. Håper jeg kan ta
+      kontakt igjen når jeg behøver hjelp.
 ---
 
