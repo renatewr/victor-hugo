@@ -1603,6 +1603,8 @@ fieldset[disabled] .btn-template-primary.active {
 @media(min-width: 768px){
   .box-image-text{
     flex-wrap:nowrap;
+    border:1px goldenrod;
+    border-style: solid;
   }
   .box-image-text.blog:nth-child(even) .top{
     order:1;
@@ -1610,7 +1612,7 @@ fieldset[disabled] .btn-template-primary.active {
   .box-image-text .top {
     position: relative;
     /*margin-bottom: 10px;*/
-    flex:1 0 50%;
+    flex:1 0 30vw;
   }
   .box-image-text .content {
     flex: 1 0 50%;
