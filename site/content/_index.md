@@ -38,5 +38,21 @@ testimonials:
       den slitne, tørre, gustne huden min på magisk vis kunne bli så glatt og
       glad at jeg glemte igjen klokka mi (jeg fikk den igjen i resepsjonen,
       tusen takk, Cecilie). :-)
+  - author: Anita Helen
+    position: Oslo
+    quote: >-
+      Tusen takk for fantastisk behandling, Cecilie Bibow. Jeg fikk testet både
+      biolifting og collagenstimulering og er veldig fornøyd med resultatet,
+      huden ble glatt og glødende. :) Anbefales!! Så er det selvfølgelig et
+      stort pluss at Cecilie er så sprudlende og hyggelig! :)
+  - author: Christine
+    position: Kirkenær
+    quote: >-
+      Ikke bare gjorde du meg vakrere, men dine bahandlinger fikk meg også å
+      kjenne et håp om å føle seg så ung som man kjenner seg, uten injeksjoner!
+      Tusen takk underbare Cecilie Bibow for ditt bemøtende, ditt øye for å se
+      hele menneske og ikke minst for den måten du formidler og deler din
+      kunnskap på! Jeg kommer garantert tilbake, og vill anbefale dine
+      behandlinger videre! Klem Christine
 ---
 
