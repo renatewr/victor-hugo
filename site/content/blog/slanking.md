@@ -11,15 +11,19 @@ image: /img/Image-1.jpg
 status: '0'
 pricing:
   plans:
-    - description: 'Microstimulator med fettsmelting, oppstramingsprogram og lymfedrenasje.'
-      plan: '60'
+    - description: >-
+        Microstimulator med fettsmelting, oppstrammingsprogram og lymfedrenasje
+        for mage.
+      plan: 60 minutter
       price: 'Kr 800,-'
     - description: ''
-      plan: 10 behandling a 60 minutter
-      price: 'Kr 6000,-'
-    - description: ' '
-      plan: 20 behandlinger a 60 minutter
-      price: 'Kr 9000,-'
+      plan: 10 behandlinger av mage a 60 minutter
+      price: 'Kr 7000,-'
+    - description: 'Rompe og lår behandling, med fettsmelting og lymfedrenasje.'
+      plan: 60 minutter
+      price: 'Kr 900,-'
+    - plan: 10 behandlinger av rompe og lår a 60 minutter
+      price: 'Kr 7000,-'
 ---
 Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. 
 
