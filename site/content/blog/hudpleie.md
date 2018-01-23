@@ -18,29 +18,31 @@ pricing:
         Collagenstimulering. Gir ungdommelig spenst, fordeler collagen, gir fukt
         i dybden og forebygger rynker. (Eneste maskin i Norge.)
       plan: 30 min
-      price: 'Kr 600,-'
+      price: 'Kr 890,-'
     - description: Collagenstimulering kur
       plan: 10 x 30 min
-      price: 'Kr 4900,-'
+      price: 'Kr 5900,-'
     - description: >-
         Biolifting. Stimulerer musker og hudceller, reduserer vannansamlinger og
         strammer opp huden.
       plan: 20 min
       price: 'Kr 790,-'
     - description: >-
+        Dyprens med ultralyd. Suger opp hudormer fra alle hudlag skånsomt og
+        effektivt.
+      plan: 60 min
+      price: 'Kr 890,-'
+    - description: >-
         Dyprens med ultralyd og velgjørende massasje. Suger opp hudormer fra
         alle hudlag skånsomt og effektivt.
       plan: 60 min
-      price: 'Kr 790,-'
+      price: 'Kr 1090,-'
     - description: 'Hudsliping. Jevner ut huden for linjer, porer, arr og pigmenteringer.'
       plan: 10 min
-      price: 'Kr 600,-'
+      price: 'Kr 790,-'
     - description: ''
       plan: 10 min x 5
       price: 'Kr 2500,-'
-    - description: 'Dyprens med peeling, ultralyd og leiremaske'
-      plan: 60 min
-      price: 'Kr 690,-'
 ---
 Vi har lang erfaring med avansert hudpleie. Våre kunder er kvinner og menn i alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype og ditt behov.
 
