@@ -40,7 +40,7 @@ pricing:
     - description: 'Hudsliping. Jevner ut huden for linjer, porer, arr og pigmenteringer.'
       plan: 10 min
       price: 'Kr 790,-'
-    - description: ''
+    - description: Hudsliping kur
       plan: 10 min x 5
       price: 'Kr 2500,-'
 ---
