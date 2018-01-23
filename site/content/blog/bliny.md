@@ -12,29 +12,33 @@ image: /img/cec_ret_2.jpg
 status: '0'
 pricing:
   plans:
-    - description: Oslo Bli Ny - Dame
+    - description: Mini Bli Ny tips for grupper
+      plan: ''
+      price: 'Kr 2500,- per person'
+    - description: 'Bli Ny Dag '
       plan: 5-6 timer
-      price: 'Kr 5000 - 6000,-'
-    - description: Venninnekveld
-      plan: 4 timer
-      price: På forespørsel
-    - description: Brud
-      plan: 2 timer
-      price: På forespørsel
-    - description: Grupper
-      plan: 3 timer
-      price: På forespørsel
+      price: 'Kr 5500,-'
     - description: 'Makeup, farge- og stilveiledning med butikkrunde'
       plan: 4 timer
       price: 'fra kr 3500,-'
     - description: Oslo Bli Ny - Mann
       plan: fra 3 timer
-      price: 'fra kr 3000,-'
-    - description: >-
-        Fargeanalyse og makeupkurs. Lær alt om dine beste farger i tøy og
-        makeupteknikker.
+      price: 'fra kr 2500,-'
+    - description: Brud
       plan: 2 timer
-      price: Kr 1790
+      price: Pris på forespørsel
+    - description: Fargeanalyse og makeupkurs
+      plan: 2 timer
+      price: 'Kr 1750,-'
+    - description: Stilanalyse
+      plan: 2 timer
+      price: 'Kr 1950,-'
+    - description: Makeupkurs
+      plan: 1 person
+      price: 'Kr 950,-'
+    - description: 'Fargeanalyse '
+      plan: 1 person
+      price: 'Kr 950,-'
 ---
 ## La Cecilie Bibow og hennes team få frem dine unike sider.
 
