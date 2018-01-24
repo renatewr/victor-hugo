@@ -56,12 +56,6 @@ Mini Bli Ny dager for bedrifter og andre private grupper kan også arrangeres.
 
 Vi tilbyr diverse Bli Ny pakker for alle typer menn. Pakken tilpasses dine ønsker og behov.
 
-Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
-
-Vi kan også stille som veileder for grupper i bedrifter og privat.
-
-[Ta kontakt for pristilbud.](http://www.oslobliny.no/contact/)
-
 Følgende inngår i din helt egen Bli Ny dag:
 
 * Fargeanalyse
@@ -73,3 +67,11 @@ Følgende inngår i din helt egen Bli Ny dag:
 * Farge-, makeup- og stilskjema er inkludert
 
 Vi tar utgangspunkt i dine naturlige farger og din personlige stil.
+
+
+
+Vi reiser også på hjemmebesøk, hvor vi kan tilby garderobesortering og farge-/stiltips. Her går vi gjennom dine klær, smykker, sko og tilbehør. 
+
+Vi kan også stille som veileder for grupper i bedrifter og privat.
+
+[Ta kontakt for pristilbud.](http://www.oslobliny.no/contact/)
