@@ -74,3 +74,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Status", name: "status", widget: "string", required: false}
       - {label: Pricing, name: pricing, widget: object, required: false,   fields: [{label: Plans, name: plans, widget: list, fields: [{label: Time, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}]}]}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "carousel"
+    label: "Bildekarusell"
+    files:
+      - file: "site/content/carousel.md"
+        label: "Bilder"
+        name: "images"
+        fields:
+          - {label: Title, name: title}
+
