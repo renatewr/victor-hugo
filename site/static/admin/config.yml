@@ -83,9 +83,5 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title}
           - {label: Type, name: type, default: carousel}
-          - {label: "Image 1", name: "image_1", widget: "image", required: false}
-          - {label: "Image 2", name: "image_2", widget: "image", required: false}
-          - {label: "Image 3", name: "image_3", widget: "image", required: false}
-          - {label: "Image 4", name: "image_4", widget: "image", required: false}
-          - {label: "Image 5", name: "image_5", widget: "image", required: false}
+          - {label: Bildekarusell, name: Carousel, widget: object, required: false,   fields: [{label: Bilder, name: images, widget: list, fields: [{label: Bilde, name: image, widget: "image"}, {label: Description, name: description, widget: string}]}]}
 
