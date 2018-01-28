@@ -2,11 +2,27 @@
 {{ if .Site.Params.carousel.enable }}
 <section>
     <div class="home-carousel">
-        <!--<div class="dark-mask"></div>-->
+        <!--<div class="dark-mask"></div>
         
-            <div class="homepage owl-carousel">     
+            <div id="slider">
+<figure>
+<img src="austin-fireworks.jpg" alt>
+<img src="taj-mahal_copy.jpg" alt>
+<img src="ibiza.jpg" alt>
+<img src="ankor-wat.jpg" alt>
+<img src="austin-fireworks.jpg" alt>
+</figure>
+</div>
+        -->
+        
+        
+            <div class="homepage">     
                 {{ range where .Data.Pages "Type" "carousel" }}
-                          <h1>{{ .Params.Title }}</h1>                                                                           
+                {{ range .Params.Images }}
+                <h1>{{ .Description }}</h1>
+                {{ end }}
+                          
+                          
                 {{ end }}
             </div>
             <!-- /.project owl-slider -->        
