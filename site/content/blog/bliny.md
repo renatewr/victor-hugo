@@ -5,8 +5,7 @@ order: '4'
 categories:
   - oslobliny
 tags:
-  - makeup
-  - bliny
+  - ''
 date: 2017-05-08T22:00:00.000Z
 image: /img/cec_ret_2.jpg
 status: '0'
