@@ -1,5 +1,6 @@
 ---
 title: Bildekarusell
+type: carousel
 image_1: /img/placeholder3.png
 image_2: /img/placeholder3.png
 image_3: /img/placeholder3.png
