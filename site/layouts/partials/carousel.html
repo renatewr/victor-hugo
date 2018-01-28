@@ -18,12 +18,12 @@
         
             <div class="homepage">     
                 {{ range where .Data.Pages "Type" "carousel" }}
-                {{ range .Params.Images }}
+                
                 <h1>{{ .Description }}</h1>
                 {{ end }}
                           
                           
-                {{ end }}
+                
             </div>
             <!-- /.project owl-slider -->        
     </div>
