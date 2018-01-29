@@ -1,10 +1,8 @@
-{{ if isset .Site.Params "carousel" }}
-{{ if .Site.Params.carousel.enable }}
 <section>
-    <div class="home-carousel">
-        <!--<div class="dark-mask"></div>
+    
+        <div class="dark-mask"></div>
         
-            <div id="slider">
+        <!--    <div id="slider">
 <figure>
 <img src="austin-fireworks.jpg" alt>
 <img src="taj-mahal_copy.jpg" alt>
@@ -12,21 +10,56 @@
 <img src="ankor-wat.jpg" alt>
 <img src="austin-fireworks.jpg" alt>
 </figure>
-</div>
-        -->
-        
-        
-            <div class="homepage">     
-                {{ range where .Data.Pages "Type" "carousel" }}
+</div> -->
+        <div class="slidywrapper">
+                {{ $t := $.Site.GetPage "page" "carousel.md" }}
+
+                {{ range $index, $page :=  $t.Params.images }}
+
+                {{ $c :=add $index 1 }}
+
                 
-                <h1>{{ .Description }}</h1>
+                
+                <input type=radio name="slider" id="slide{{ $c }}" />
+                    
                 {{ end }}
-                          
-                          
+              
+                <div class="slider-wrapper">
+                  <div class=inner>
+    
                 
+                {{ range $t.Params.images }}
+                    <article>
+                            <img src="{{ .image }}" >
+                    </article>
+
+                {{ end }}
             </div>
-            <!-- /.project owl-slider -->        
-    </div>
+            <!-- .inner -->
+          </div>
+          <!-- .slider-wrapper -->
+        
+          <div class="slider-prev-next-control">
+                {{ range $index, $page :=  $t.Params.images }}
+
+                {{ $d :=add $index 1 }}
+                
+                <label for=slide{{ $d }}></label>
+                    
+                {{ end }}
+          </div>
+          <!-- .slider-prev-next-control -->
+        
+          <div class="slider-dot-control">
+                {{ range $index, $page :=  $t.Params.images }}
+
+                {{ $e :=add $index 1 }}
+                
+                <label for=slide{{ $e }}></label>
+                    
+                {{ end }}
+          </div>
+          <!-- .slider-dot-control -->
+        </div>
+ 
 </section>
-{{ end }}
-{{ end }}

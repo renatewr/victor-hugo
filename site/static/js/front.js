@@ -9,7 +9,6 @@ if ($.cookie('themeLayout')) {
 }
 
 $(function () {
-  sliderHomepage()
   sliders()
   fullScreenContainer()
   productDetailGallery(4000)
