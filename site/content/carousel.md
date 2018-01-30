@@ -1,16 +1,7 @@
 ---
 title: Bildekarusell
-type: carousel
-images:
-  - description: Slanking
-    image: /img/Image-1.jpg
-  - description: Placeholder
-    image: /img/placeholder3.png
-  - description: Placeholder
-    image: /img/placeholder3.png
-  - description: Placeholder
-    image: /img/placeholder3.png
-  - description: Test
-    image: /img/5d5693_89ec1b8c292a6c36743a6722e65599a9.jpg
+image_1: /img/MSF_4412z.jpg
+image_2: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
+image_3: /img/5d5693_195b00e85c9b49feb19ca5e6566cbc21.jpg
 ---
 
