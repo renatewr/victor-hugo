@@ -83,5 +83,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: hidden}
           - {label: Type, name: type, default: carousel, widget: hidden}
+          - {label: Vis på forsiden, name: show, default: false, widget: "boolean"}
           - {label: Bildekarusell - max 5, name: images, widget: list, fields: [{label: Bilde, name: image, widget: "image"}, {label: Description, name: description, widget: string}]}
 
