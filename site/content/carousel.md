@@ -2,7 +2,9 @@
 title: Bildekarusell
 show: true
 images:
-  - description: Legg til bilde
+  - description: ''
     image: /img/cecilie.jpg
+  - image: /img/fixed-background-2.jpg
+  - image: /img/dyprens.jpg
 ---
 
