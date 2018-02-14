@@ -18,6 +18,7 @@ $(function () {
   animations()
   counters()
   contactForm()
+  mycarousel()
 })
 
 // Ajax contact
@@ -53,6 +54,25 @@ function sliderHomepage () {
       itemsMobile: [500, 2]
     })
   }
+}
+
+function autoSlide(seats, seat){
+  seats[seat].click();
+}
+
+function mycarousel() {
+  var caro = document.getElementsByClassName('slidywrapper')[0];
+  const seats = [].slice.call(caro.getElementsByTagName('input'));
+  let seat = 0;
+  setTimeout(function () {
+    autoSlide(seats, seat+1);
+  }, 1000);
+  setTimeout(function () {
+    autoSlide(seats, seat+2);
+  }, 4000);
+  setTimeout(function () {
+    autoSlide(seats, seat);
+  }, 8000);
 }
 
 /* sliders */

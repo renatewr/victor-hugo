@@ -20,9 +20,14 @@
 
                 {{ $c :=add $index 1 }}
 
+                {{ if eq $c 1}}
+                <input type=radio name="slider" checked=checked id="slide{{ $c }}" />
+                {{ else }}
+
                 
                 
                 <input type=radio name="slider" id="slide{{ $c }}" />
+                {{ end }}
                     
                 {{ end }}
               
