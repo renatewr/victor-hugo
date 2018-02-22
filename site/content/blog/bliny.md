@@ -29,7 +29,7 @@ pricing:
     - description: 'Bli Ny Dag '
       plan: 5-6 timer
       price: 'Kr 5500,- '
-    - description: 2 Bli Ny Damer sammen - få en lærerik dag sammen og 500 kr i rabatt
+    - description: 2 Bli Ny Damer - få en lærerik dag sammen og 500 kr i rabatt
       plan: 5-6 timer
       price: 'Kr 5000,- per person'
     - description: Mini Bli Ny tips for gruppe
