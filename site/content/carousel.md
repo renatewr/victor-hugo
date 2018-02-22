@@ -5,6 +5,6 @@ images:
   - description: ''
     image: /img/dyprens.jpg
   - image: /img/fixed-background-2.jpg
-  - image: /img/fotoshoot.jpg
+  - image: /img/bliny.jpg
 ---
 
