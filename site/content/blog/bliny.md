@@ -29,16 +29,10 @@ pricing:
     - description: 'Bli Ny Dag '
       plan: 5-6 timer
       price: 'Kr 5500,- '
-    - description: >-
-        2 Bli Ny Damer. Ta med deg en venninne og få en ekstra hyggelig og
-        lærerik dag sammen. Kr 500,- i avslag per person. Biolift hudpleie er
-        også inkludert (ansiktsløft uten kirurgi). 
+    - description: 2 Bli Ny Damer sammen - få en lærerik dag sammen og 500 kr i rabatt
       plan: 5-6 timer
       price: 'Kr 5000,- per person'
-    - description: >-
-        Mini Bli Ny tips for gruppe. Lær dine beste farger, få makeup og
-        hårtips. Til slutt shoppingveiledning med stilanalyse, brille og
-        smykkeveiledning.
+    - description: Mini Bli Ny tips for gruppe
       plan: ''
       price: 'Kr 2500,- per person'
     - description: Oslo Bli Ny - Mann
