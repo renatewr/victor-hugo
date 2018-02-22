@@ -35,4 +35,4 @@ Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsa
 
 Merk at du i kombinasjon med riktig kosthold og aktivitet, vil se et raskere og bedre resultat.
 
-Både for damer og menn.
+Behandlingene våre er både for damer og menn.
