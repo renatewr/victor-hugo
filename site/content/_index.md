@@ -4,8 +4,8 @@ date: 2017-05-16T19:59:48.898Z
 top_heading: Bli Ny for damer og menn
 top_icon: fa-heart-o
 top_sub_heading: >-
-  La Cecilie Bibow og hennes team få frem dine unike sider. Kontakt:
-  cecilie@oslobliny.no - mobil: 99490372
+  Oslo Bli Ny midt i Oslos shoppingparadis. La Cecilie Bibow og hennes team få
+  frem dine unike sider. Kontakt: cecilie@oslobliny.no - mobil: 99490372
 top_link_text: Les mer
 top_link_url: /blog/bliny/
 image: /img/cec_ret_2.jpg
