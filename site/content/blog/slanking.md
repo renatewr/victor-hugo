@@ -1,6 +1,8 @@
 ---
 title: Slanking
-ingress: Cecilie har fått strålende omtale i KK!  Både for damer og menn!!
+ingress: >-
+  Kunne du tenkte deg å stramme opp mage, rumpe eller lår? Hos oss kan du
+  punktslanke problemområdene dine ved hjelp av effektive maskiner.
 order: '4'
 categories:
   - oslobliny
@@ -25,12 +27,12 @@ pricing:
     - plan: 10 behandlinger av rompe og lår a 60 minutter
       price: 'Kr 7000,-'
 ---
-Effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. 
+Nå kan du punktslanke problemområdene dine ved hjelp av effektive maskiner som smelter fett, strammer opp slapp muskulatur og renser ut vannansamlinger. 
 
-Nå kan du punktslanke problemområdene dine. I kombinasjon med riktig kosthold og aktivitet vil du selvfølgelig se et raskere og bedre resultat.
+Cecilie har fått strålende omtale av sine slankebehandlinger i KK! 
 
 Vi benytter to forskjellige maskiner. Microstimulator ( 6 - pack maskin) hovedsakelig på mage og radiofrekvens maskin på andre problemområder som rompe, lår og armer.
 
-Cecilie har fått strålende omtale i KK!
+Merk at du i kombinasjon med riktig kosthold og aktivitet, vil se et raskere og bedre resultat.
 
-Både for damer og menn!!
+Behandlingene våre er både for damer og menn.
