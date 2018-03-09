@@ -10,9 +10,9 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/bedrift.md"
-        label: "Bedrift"
-        name: "bedrift"
+      - file: "site/content/smerteeksperten.md"
+        label: "smerteeksperten"
+        name: "smerteeksperten"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Type, name: type, widget: hidden, default: about}

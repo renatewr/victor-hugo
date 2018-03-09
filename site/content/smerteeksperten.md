@@ -1,6 +1,6 @@
 ---
-title: Bedriftsmassasje
-id: bedrift
+title: Smerteeksperten
+id: smerteeksperten
 top_heading: Ta vare på dine ansatte
 top_icon: fa-medkit
 top_sub_heading: >-

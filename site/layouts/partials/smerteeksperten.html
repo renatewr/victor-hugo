@@ -1,3 +1,31 @@
-<div>
-Hei  Her er noe info om smerteeksperten
-</div>
+<section class="bar image color-white text-center" style="background-image: url('{{ .Params.image}}')">
+    <div class="dark-mask"></div>
+    <div class="container">
+  
+          <div class="row">
+              <div class="col-md-12">
+                <div class="icon icon-lg"><i class="fa {{ .Params.top_icon }}"></i>
+                </div>
+                <h3 class="text-uppercase">{{ .Params.top_heading | markdownify }}</h3>
+                <p class="lead">{{ .Params.top_sub_heading }}</p>
+              </div>
+  
+          </div>
+  
+      </div>
+  </section>
+    <div class="container bedrift" id="contact">
+        <div class="row">
+            <div class="col-md-12">
+                <section>
+  
+                    {{ .Content }}
+  
+                </section>
+  
+            </div>          
+  
+      </div>
+      <!-- /.row -->
+  </div>
+  
