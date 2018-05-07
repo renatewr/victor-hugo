@@ -14,7 +14,15 @@ collections: # A list of collections the CMS should be able to edit
         label: "skedsmo"
         name: "skedsmo"
         fields:
-          - {label: Title, name: title, widget: string}          
+          - {label: Title, name: title, widget: string} 
+          - {label: Type, name: type, widget: hidden, default: skedsmo}
+          - {label: Page, name: page, widget: hidden, default: "/skedsmo.html"}
+          - {label: Id, name: id, widget: hidden, default: "skedsmo"}
+          - {label: Top tittel, name: top_heading, widget: string}
+          - {label: Top icon fontawesome class, name: top_icon, widget: "string"}
+          - {label: Top subtitle, name: top_sub_heading, widget: string}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}      
       - file: "site/content/smerteeksperten.md"
         label: "smerteeksperten"
         name: "smerteeksperten"
