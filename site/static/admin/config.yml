@@ -10,6 +10,11 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/skedsmo.md"
+        label: "skedsmo"
+        name: "skedsmo"
+        fields:
+          - {label: Title, name: title, widget: string}          
       - file: "site/content/smerteeksperten.md"
         label: "smerteeksperten"
         name: "smerteeksperten"
@@ -22,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Top icon fontawesome class, name: top_icon, widget: "string"}
           - {label: Top subtitle, name: top_sub_heading, widget: string}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}      
       - file: "site/content/contact.md"
         label: "Kontakt"
         name: "contact"
