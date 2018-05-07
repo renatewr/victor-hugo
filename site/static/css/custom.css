@@ -9,6 +9,10 @@ body {
 
 }
 
+img {
+  max-width: 100%;
+}
+
 /*---- NUMBER OF SLIDE CONFIGURATION ----*/
 .slidywrapper {
   max-width: 100vw;
