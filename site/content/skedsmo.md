@@ -2,7 +2,7 @@
 title: skedsmo
 id: skedsmo
 top_heading: Her er en overskrift
-top_icon: fa-futbol
+top_icon: fa-futbol-o
 top_sub_heading: Underoverskrift
 image: /img/smerte.jpg
 ---
