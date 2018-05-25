@@ -10,6 +10,8 @@ image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
 
 Skedsmo Fotballklubb har inngått et samarbeid med Oslo Bli Ny som gir tilbud på effektiv dyptgående massasje og smertebehandlinger, samt idrettsmassasje.
 
+18 års erfaring med strålende tilbakemeldinger fra nasjonale og internasjonale klienter.
+
 * **ben**
 * **kne**
 * **legg og lår**
