@@ -23,12 +23,8 @@ Skedsmo Fotballklubb har inng책tt et samarbeid med Oslo Bli Ny som gir tilbud p�
 
 
 ```
-Ben kne, legg og l책r, nakke, skulder, bryst, rygg, hofte, albue, arm, h책ndledd
+Pris kr. 490,- pr time(massasje) Kun timebestilling. Idrettshallen hos Skedsmo fotball 1. etg.
 ```
-
-**_Pris kr. 490,- pr time. (Massasje)_**
-
-**_Kun timebestilling. Idrettshallen hos Skedsmo fotball 1. etg._**
 
 Kontakt meg for informasjon og timebestilling p책: 99 49 03 72,  [cecilie@oslobliny.no,](mailto:cecilie@oslobliny.no) eller[ send henvendelse](www.oslobliny.no/kontakt), eller bestill time p책 [www.skedsmofk.no](http://www.skedsmofk.no)
 
