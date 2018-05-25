@@ -3,7 +3,7 @@ title: skedsmo
 id: skedsmo
 top_heading: Ta kontakt for timebestilling!
 top_icon: Idrettshallen hos Skedsmo fotball 1. etg
-top_sub_heading: Ta kontakt for timebestilling!
+top_sub_heading: 99 49 03 72 eller send epost
 image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
 ---
 # Idrettsmassasje og «Viking-massasje»  for akutte- eller kroniske smerter på Skedsmo
