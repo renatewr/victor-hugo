@@ -1,31 +1,23 @@
 ---
 title: skedsmo
 id: skedsmo
-top_heading: Her er en overskrift
+top_heading: Idrettshallen hos Skedsmo fotball 1. etg
 top_icon: fa-futbol-o
-top_sub_heading: >-
-  Idrettsmassasje og «Viking-massasje»  for akutte- eller kroniske smerter på
-  Skedsmo
-image: /img/smerte.jpg
+top_sub_heading: Bestill time på www.skedsmofk.no
+image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
 ---
-# Skedsmo
+# Idrettsmassasje og «Viking-massasje»  for akutte- eller kroniske smerter på Skedsmo
 
-Her kan man skrive tekst som passer 
+Skedsmo Fotballklubb har inngått et samarbeid med Oslo Bli Ny som gir tilbud på effektiv dyptgående massasje og smertebehandlinger, samt idrettsmassasje.
 
-## Man kan skrive under overskrift
-
-* Punkt 1
-* Punkt 2
-
+## `Ben, kne, legg og lår, nakke, skulder, bryst, rygg, hofte, albue, arm, håndledd`
 
 ```
-Prisen kanskje skal stå med grå bakgrunn?
+Kun timebestilling
 ```
 
-Ved faste avtaler og langvarig oppdrag, ta kontakt for egne priser.
+Kontakt meg for informasjon og timebestilling på: 99 49 03 72 eller [cecilie@oslobliny.no,](mailto:cecilie@oslobliny.no) eller[ send henvendelse](www.oslobliny.no/kontakt)
 
 > «På Skedsmo Stadion er vi så heldige at Cecilie Bibow (bl.annet tidligere massør fra Clarion Hotel, og med mange år i bransjen) kommer og gir effektiv dyptgående massasje. Jeg anbefaler dette til alle jeg kjenner -jeg tror alle jeg kjenner har godt av å myke opp litt 😉, -og gir Cecile terningkast 6. »
 
 Fra ledelsen i Skedsmo fotballklubb, Trine Fausk
-
-![Massasje](/img/5d5693_46473bc576f343f6bebab5365be7887e.jpg)
