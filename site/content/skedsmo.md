@@ -10,8 +10,20 @@ image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
 
 Skedsmo Fotballklubb har inngått et samarbeid med Oslo Bli Ny som gir tilbud på effektiv dyptgående massasje og smertebehandlinger, samt idrettsmassasje.
 
+* **ben**
+* **kne**
+* **legg og lår**
+* **nakke og skulder**
+* **bryst**
+* **rygg**
+* **hofte**
+* **albue**
+* **arm**
+* **håndledd**
+
+
 ```
-Ben, kne, legg og lår, nakke, skulder, bryst, rygg, hofte, albue, arm, håndledd
+Ben kne, legg og lår, nakke, skulder, bryst, rygg, hofte, albue, arm, håndledd
 ```
 
 **_Pris kr. 490,- pr time. (Massasje)_**
