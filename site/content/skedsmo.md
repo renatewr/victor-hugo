@@ -16,7 +16,7 @@ Ben, kne, legg og lår, nakke, skulder, bryst, rygg, hofte, albue, arm, håndled
 
 **_Pris kr. 490,- pr time. (Massasje)_**
 
-_Kun timebestilling. Idrettshallen hos Skedsmo fotball 1. etg._
+**_Kun timebestilling. Idrettshallen hos Skedsmo fotball 1. etg._**
 
 Kontakt meg for informasjon og timebestilling på: 99 49 03 72,  [cecilie@oslobliny.no,](mailto:cecilie@oslobliny.no) eller[ send henvendelse](www.oslobliny.no/kontakt), eller bestill time på [www.skedsmofk.no](http://www.skedsmofk.no)
 
