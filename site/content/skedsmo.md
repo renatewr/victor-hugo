@@ -1,8 +1,8 @@
 ---
 title: skedsmo
 id: skedsmo
-top_heading: Idrettshallen hos Skedsmo fotball 1. etg
-top_icon: fa-futbol-o
+top_heading: Ta kontakt for timebestilling!
+top_icon: Idrettshallen hos Skedsmo fotball 1. etg
 top_sub_heading: Ta kontakt for timebestilling!
 image: /img/5d5693_46473bc576f343f6bebab5365be7887e.jpg
 ---
@@ -14,7 +14,7 @@ Skedsmo Fotballklubb har inng책tt et samarbeid med Oslo Bli Ny som gir tilbud p�
 Ben, kne, legg og l책r, nakke, skulder, bryst, rygg, hofte, albue, arm, h책ndledd
 ```
 
-_Kun timebestilling_
+_Kun timebestilling. Idrettshallen hos Skedsmo fotball 1. etg._
 
 Kontakt meg for informasjon og timebestilling p책: 99 49 03 72 eller [cecilie@oslobliny.no,](mailto:cecilie@oslobliny.no) eller[ send henvendelse](www.oslobliny.no/kontakt), eller bestill time p책 [www.skedsmofk.no](http://www.skedsmofk.no)
 
