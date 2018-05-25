@@ -3,7 +3,9 @@ title: skedsmo
 id: skedsmo
 top_heading: Her er en overskrift
 top_icon: fa-futbol-o
-top_sub_heading: Underoverskrift
+top_sub_heading: >-
+  Idrettsmassasje og «Viking-massasje»  for akutte- eller kroniske smerter på
+  Skedsmo
 image: /img/smerte.jpg
 ---
 # Skedsmo
