@@ -5,6 +5,7 @@ ingress: >-
   alle aldersgrupper. Vi tilrettelegger effektiv hudbehandling etter din hudtype
   og ditt behov.
 order: '3'
+test: 'blog'
 categories:
   - oslobliny
 tags:

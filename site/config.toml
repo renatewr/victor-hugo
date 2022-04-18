@@ -121,3 +121,6 @@ paginate = 100
      subtitle = "Bedriftsmassasje og smertebehandling"
      link_url = "/categories/smerteeksperten/"
      link_text = "Gå til smerteeksperten"
+
+[params.mainSections]
+    [blog]

@@ -2,6 +2,7 @@
 title: Oslo Bli Ny
 ingress: La Cecilie Bibow og hennes team få frem dine unike sider. Damer og menn!
 order: '4'
+test: 'blog'
 categories:
   - oslobliny
 tags:

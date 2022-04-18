@@ -12,11 +12,12 @@
               {{ .Site.Params.recent_posts.subtitle | markdownify }}
             </p>
 
+            
             <!-- *** BLOG HOMEPAGE *** -->
 
-
-                {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}                
-                {{ range sort $posts.Pages "Params.order" }}
+            
+            {{ $t := .Site.GetPage "/blog" }}
+                {{ range sort $t.Pages "Params.order" }}
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
@@ -35,7 +36,7 @@
                         </div>
 
                         <div class="content">
-                            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                            <h2><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h2>
 
                             <p class="intro">{{ .Params.ingress }} </p>
                             <p class="read-more">
