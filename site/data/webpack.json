@@ -1,6 +1,9 @@
 {
   "main": {
-    "css": "main.css",
-    "js": "main.js"
+    "css": "main.82609.css",
+    "js": "main.82609.js"
+  },
+  "": {
+    "html": "index.html"
   }
 }
