@@ -17,3 +17,14 @@
 
 <!-- owl carousel -->
 <script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
+<script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
