@@ -1,5 +1,5 @@
 ---
-title: Slanking
+title: Slanking1
 ingress: >-
   Kunne du tenkte deg å stramme opp mage, rumpe eller lår? Hos oss kan du
   punktslanke problemområdene dine ved hjelp av effektive maskiner.
